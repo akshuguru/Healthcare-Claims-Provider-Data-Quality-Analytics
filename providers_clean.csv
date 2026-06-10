@@ -1,0 +1,2001 @@
+provider_id,provider_name,specialty,network_status,county
+P00001,Provider_1,Family Medicine,In-Network,Dallas
+P00002,Provider_2,Family Medicine,In-Network,Dallas
+P00003,Provider_3,Family Medicine,In-Network,Dallas
+P00004,Provider_4,Cardiology,In-Network,Dallas
+P00005,Provider_5,Family Medicine,In-Network,Dallas
+P00006,Provider_6,Family Medicine,In-Network,Dallas
+P00007,Provider_7,Family Medicine,In-Network,Dallas
+P00008,Provider_8,Cardiology,In-Network,Dallas
+P00009,Provider_9,Family Medicine,In-Network,Dallas
+P00010,Provider_10,Family Medicine,In-Network,Dallas
+P00011,Provider_11,Family Medicine,In-Network,Dallas
+P00012,Provider_12,Cardiology,In-Network,Dallas
+P00013,Provider_13,Family Medicine,In-Network,Dallas
+P00014,Provider_14,Family Medicine,In-Network,Dallas
+P00015,Provider_15,Family Medicine,In-Network,Dallas
+P00016,Provider_16,Cardiology,In-Network,Dallas
+P00017,Provider_17,Family Medicine,In-Network,Dallas
+P00018,Provider_18,Family Medicine,In-Network,Dallas
+P00019,Provider_19,Family Medicine,In-Network,Dallas
+P00020,Provider_20,Cardiology,In-Network,Dallas
+P00021,Provider_21,Family Medicine,In-Network,Dallas
+P00022,Provider_22,Family Medicine,In-Network,Dallas
+P00023,Provider_23,Family Medicine,In-Network,Dallas
+P00024,Provider_24,Cardiology,In-Network,Dallas
+P00025,Provider_25,Family Medicine,In-Network,Dallas
+P00026,Provider_26,Family Medicine,In-Network,Dallas
+P00027,Provider_27,Family Medicine,In-Network,Dallas
+P00028,Provider_28,Cardiology,In-Network,Dallas
+P00029,Provider_29,Family Medicine,In-Network,Dallas
+P00030,Provider_30,Family Medicine,In-Network,Dallas
+P00031,Provider_31,Family Medicine,In-Network,Dallas
+P00032,Provider_32,Cardiology,In-Network,Dallas
+P00033,Provider_33,Family Medicine,In-Network,Dallas
+P00034,Provider_34,Family Medicine,In-Network,Dallas
+P00035,Provider_35,Family Medicine,In-Network,Dallas
+P00036,Provider_36,Cardiology,In-Network,Dallas
+P00037,Provider_37,Family Medicine,In-Network,Dallas
+P00038,Provider_38,Family Medicine,In-Network,Dallas
+P00039,Provider_39,Family Medicine,In-Network,Dallas
+P00040,Provider_40,Cardiology,In-Network,Dallas
+P00041,Provider_41,Family Medicine,In-Network,Dallas
+P00042,Provider_42,Family Medicine,In-Network,Dallas
+P00043,Provider_43,Family Medicine,In-Network,Dallas
+P00044,Provider_44,Cardiology,In-Network,Dallas
+P00045,Provider_45,Family Medicine,In-Network,Dallas
+P00046,Provider_46,Family Medicine,In-Network,Dallas
+P00047,Provider_47,Family Medicine,In-Network,Dallas
+P00048,Provider_48,Cardiology,In-Network,Dallas
+P00049,Provider_49,Family Medicine,In-Network,Dallas
+P00050,Provider_50,Family Medicine,In-Network,Dallas
+P00051,Provider_51,Family Medicine,In-Network,Dallas
+P00052,Provider_52,Cardiology,In-Network,Dallas
+P00053,Provider_53,Family Medicine,In-Network,Dallas
+P00054,Provider_54,Family Medicine,In-Network,Dallas
+P00055,Provider_55,Family Medicine,In-Network,Dallas
+P00056,Provider_56,Cardiology,In-Network,Dallas
+P00057,Provider_57,Family Medicine,In-Network,Dallas
+P00058,Provider_58,Family Medicine,In-Network,Dallas
+P00059,Provider_59,Family Medicine,In-Network,Dallas
+P00060,Provider_60,Cardiology,In-Network,Dallas
+P00061,Provider_61,Family Medicine,In-Network,Dallas
+P00062,Provider_62,Family Medicine,In-Network,Dallas
+P00063,Provider_63,Family Medicine,In-Network,Dallas
+P00064,Provider_64,Cardiology,In-Network,Dallas
+P00065,Provider_65,Family Medicine,In-Network,Dallas
+P00066,Provider_66,Family Medicine,In-Network,Dallas
+P00067,Provider_67,Family Medicine,In-Network,Dallas
+P00068,Provider_68,Cardiology,In-Network,Dallas
+P00069,Provider_69,Family Medicine,In-Network,Dallas
+P00070,Provider_70,Family Medicine,In-Network,Dallas
+P00071,Provider_71,Family Medicine,In-Network,Dallas
+P00072,Provider_72,Cardiology,In-Network,Dallas
+P00073,Provider_73,Family Medicine,In-Network,Dallas
+P00074,Provider_74,Family Medicine,In-Network,Dallas
+P00075,Provider_75,Family Medicine,In-Network,Dallas
+P00076,Provider_76,Cardiology,In-Network,Dallas
+P00077,Provider_77,Family Medicine,In-Network,Dallas
+P00078,Provider_78,Family Medicine,In-Network,Dallas
+P00079,Provider_79,Family Medicine,In-Network,Dallas
+P00080,Provider_80,Cardiology,In-Network,Dallas
+P00081,Provider_81,Family Medicine,In-Network,Dallas
+P00082,Provider_82,Family Medicine,In-Network,Dallas
+P00083,Provider_83,Family Medicine,In-Network,Dallas
+P00084,Provider_84,Cardiology,In-Network,Dallas
+P00085,Provider_85,Family Medicine,In-Network,Dallas
+P00086,Provider_86,Family Medicine,In-Network,Dallas
+P00087,Provider_87,Family Medicine,In-Network,Dallas
+P00088,Provider_88,Cardiology,In-Network,Dallas
+P00089,Provider_89,Family Medicine,In-Network,Dallas
+P00090,Provider_90,Family Medicine,In-Network,Dallas
+P00091,Provider_91,Family Medicine,In-Network,Dallas
+P00092,Provider_92,Cardiology,In-Network,Dallas
+P00093,Provider_93,Family Medicine,In-Network,Dallas
+P00094,Provider_94,Family Medicine,In-Network,Dallas
+P00095,Provider_95,Family Medicine,In-Network,Dallas
+P00096,Provider_96,Cardiology,In-Network,Dallas
+P00097,Provider_97,Family Medicine,In-Network,Dallas
+P00098,Provider_98,Family Medicine,In-Network,Dallas
+P00099,Provider_99,Family Medicine,In-Network,Dallas
+P00100,Provider_100,Cardiology,In-Network,Dallas
+P00101,Provider_101,Family Medicine,In-Network,Dallas
+P00102,Provider_102,Family Medicine,In-Network,Dallas
+P00103,Provider_103,Family Medicine,In-Network,Dallas
+P00104,Provider_104,Cardiology,In-Network,Dallas
+P00105,Provider_105,Family Medicine,In-Network,Dallas
+P00106,Provider_106,Family Medicine,In-Network,Dallas
+P00107,Provider_107,Family Medicine,In-Network,Dallas
+P00108,Provider_108,Cardiology,In-Network,Dallas
+P00109,Provider_109,Family Medicine,In-Network,Dallas
+P00110,Provider_110,Family Medicine,In-Network,Dallas
+P00111,Provider_111,Family Medicine,In-Network,Dallas
+P00112,Provider_112,Cardiology,In-Network,Dallas
+P00113,Provider_113,Family Medicine,In-Network,Dallas
+P00114,Provider_114,Family Medicine,In-Network,Dallas
+P00115,Provider_115,Family Medicine,In-Network,Dallas
+P00116,Provider_116,Cardiology,In-Network,Dallas
+P00117,Provider_117,Family Medicine,In-Network,Dallas
+P00118,Provider_118,Family Medicine,In-Network,Dallas
+P00119,Provider_119,Family Medicine,In-Network,Dallas
+P00120,Provider_120,Cardiology,In-Network,Dallas
+P00121,Provider_121,Family Medicine,In-Network,Dallas
+P00122,Provider_122,Family Medicine,In-Network,Dallas
+P00123,Provider_123,Family Medicine,In-Network,Dallas
+P00124,Provider_124,Cardiology,In-Network,Dallas
+P00125,Provider_125,Family Medicine,In-Network,Dallas
+P00126,Provider_126,Family Medicine,In-Network,Dallas
+P00127,Provider_127,Family Medicine,In-Network,Dallas
+P00128,Provider_128,Cardiology,In-Network,Dallas
+P00129,Provider_129,Family Medicine,In-Network,Dallas
+P00130,Provider_130,Family Medicine,In-Network,Dallas
+P00131,Provider_131,Family Medicine,In-Network,Dallas
+P00132,Provider_132,Cardiology,In-Network,Dallas
+P00133,Provider_133,Family Medicine,In-Network,Dallas
+P00134,Provider_134,Family Medicine,In-Network,Dallas
+P00135,Provider_135,Family Medicine,In-Network,Dallas
+P00136,Provider_136,Cardiology,In-Network,Dallas
+P00137,Provider_137,Family Medicine,In-Network,Dallas
+P00138,Provider_138,Family Medicine,In-Network,Dallas
+P00139,Provider_139,Family Medicine,In-Network,Dallas
+P00140,Provider_140,Cardiology,In-Network,Dallas
+P00141,Provider_141,Family Medicine,In-Network,Dallas
+P00142,Provider_142,Family Medicine,In-Network,Dallas
+P00143,Provider_143,Family Medicine,In-Network,Dallas
+P00144,Provider_144,Cardiology,In-Network,Dallas
+P00145,Provider_145,Family Medicine,In-Network,Dallas
+P00146,Provider_146,Family Medicine,In-Network,Dallas
+P00147,Provider_147,Family Medicine,In-Network,Dallas
+P00148,Provider_148,Cardiology,In-Network,Dallas
+P00149,Provider_149,Family Medicine,In-Network,Dallas
+P00150,Provider_150,Family Medicine,In-Network,Dallas
+P00151,Provider_151,Family Medicine,In-Network,Dallas
+P00152,Provider_152,Cardiology,In-Network,Dallas
+P00153,Provider_153,Family Medicine,In-Network,Dallas
+P00154,Provider_154,Family Medicine,In-Network,Dallas
+P00155,Provider_155,Family Medicine,In-Network,Dallas
+P00156,Provider_156,Cardiology,In-Network,Dallas
+P00157,Provider_157,Family Medicine,In-Network,Dallas
+P00158,Provider_158,Family Medicine,In-Network,Dallas
+P00159,Provider_159,Family Medicine,In-Network,Dallas
+P00160,Provider_160,Cardiology,In-Network,Dallas
+P00161,Provider_161,Family Medicine,In-Network,Dallas
+P00162,Provider_162,Family Medicine,In-Network,Dallas
+P00163,Provider_163,Family Medicine,In-Network,Dallas
+P00164,Provider_164,Cardiology,In-Network,Dallas
+P00165,Provider_165,Family Medicine,In-Network,Dallas
+P00166,Provider_166,Family Medicine,In-Network,Dallas
+P00167,Provider_167,Family Medicine,In-Network,Dallas
+P00168,Provider_168,Cardiology,In-Network,Dallas
+P00169,Provider_169,Family Medicine,In-Network,Dallas
+P00170,Provider_170,Family Medicine,In-Network,Dallas
+P00171,Provider_171,Family Medicine,In-Network,Dallas
+P00172,Provider_172,Cardiology,In-Network,Dallas
+P00173,Provider_173,Family Medicine,In-Network,Dallas
+P00174,Provider_174,Family Medicine,In-Network,Dallas
+P00175,Provider_175,Family Medicine,In-Network,Dallas
+P00176,Provider_176,Cardiology,In-Network,Dallas
+P00177,Provider_177,Family Medicine,In-Network,Dallas
+P00178,Provider_178,Family Medicine,In-Network,Dallas
+P00179,Provider_179,Family Medicine,In-Network,Dallas
+P00180,Provider_180,Cardiology,In-Network,Dallas
+P00181,Provider_181,Family Medicine,In-Network,Dallas
+P00182,Provider_182,Family Medicine,In-Network,Dallas
+P00183,Provider_183,Family Medicine,In-Network,Dallas
+P00184,Provider_184,Cardiology,In-Network,Dallas
+P00185,Provider_185,Family Medicine,In-Network,Dallas
+P00186,Provider_186,Family Medicine,In-Network,Dallas
+P00187,Provider_187,Family Medicine,In-Network,Dallas
+P00188,Provider_188,Cardiology,In-Network,Dallas
+P00189,Provider_189,Family Medicine,In-Network,Dallas
+P00190,Provider_190,Family Medicine,In-Network,Dallas
+P00191,Provider_191,Family Medicine,In-Network,Dallas
+P00192,Provider_192,Cardiology,In-Network,Dallas
+P00193,Provider_193,Family Medicine,In-Network,Dallas
+P00194,Provider_194,Family Medicine,In-Network,Dallas
+P00195,Provider_195,Family Medicine,In-Network,Dallas
+P00196,Provider_196,Cardiology,In-Network,Dallas
+P00197,Provider_197,Family Medicine,In-Network,Dallas
+P00198,Provider_198,Family Medicine,In-Network,Dallas
+P00199,Provider_199,Family Medicine,In-Network,Dallas
+P00200,Provider_200,Cardiology,In-Network,Dallas
+P00201,Provider_201,Family Medicine,In-Network,Dallas
+P00202,Provider_202,Family Medicine,In-Network,Dallas
+P00203,Provider_203,Family Medicine,In-Network,Dallas
+P00204,Provider_204,Cardiology,In-Network,Dallas
+P00205,Provider_205,Family Medicine,In-Network,Dallas
+P00206,Provider_206,Family Medicine,In-Network,Dallas
+P00207,Provider_207,Family Medicine,In-Network,Dallas
+P00208,Provider_208,Cardiology,In-Network,Dallas
+P00209,Provider_209,Family Medicine,In-Network,Dallas
+P00210,Provider_210,Family Medicine,In-Network,Dallas
+P00211,Provider_211,Family Medicine,In-Network,Dallas
+P00212,Provider_212,Cardiology,In-Network,Dallas
+P00213,Provider_213,Family Medicine,In-Network,Dallas
+P00214,Provider_214,Family Medicine,In-Network,Dallas
+P00215,Provider_215,Family Medicine,In-Network,Dallas
+P00216,Provider_216,Cardiology,In-Network,Dallas
+P00217,Provider_217,Family Medicine,In-Network,Dallas
+P00218,Provider_218,Family Medicine,In-Network,Dallas
+P00219,Provider_219,Family Medicine,In-Network,Dallas
+P00220,Provider_220,Cardiology,In-Network,Dallas
+P00221,Provider_221,Family Medicine,In-Network,Dallas
+P00222,Provider_222,Family Medicine,In-Network,Dallas
+P00223,Provider_223,Family Medicine,In-Network,Dallas
+P00224,Provider_224,Cardiology,In-Network,Dallas
+P00225,Provider_225,Family Medicine,In-Network,Dallas
+P00226,Provider_226,Family Medicine,In-Network,Dallas
+P00227,Provider_227,Family Medicine,In-Network,Dallas
+P00228,Provider_228,Cardiology,In-Network,Dallas
+P00229,Provider_229,Family Medicine,In-Network,Dallas
+P00230,Provider_230,Family Medicine,In-Network,Dallas
+P00231,Provider_231,Family Medicine,In-Network,Dallas
+P00232,Provider_232,Cardiology,In-Network,Dallas
+P00233,Provider_233,Family Medicine,In-Network,Dallas
+P00234,Provider_234,Family Medicine,In-Network,Dallas
+P00235,Provider_235,Family Medicine,In-Network,Dallas
+P00236,Provider_236,Cardiology,In-Network,Dallas
+P00237,Provider_237,Family Medicine,In-Network,Dallas
+P00238,Provider_238,Family Medicine,In-Network,Dallas
+P00239,Provider_239,Family Medicine,In-Network,Dallas
+P00240,Provider_240,Cardiology,In-Network,Dallas
+P00241,Provider_241,Family Medicine,In-Network,Dallas
+P00242,Provider_242,Family Medicine,In-Network,Dallas
+P00243,Provider_243,Family Medicine,In-Network,Dallas
+P00244,Provider_244,Cardiology,In-Network,Dallas
+P00245,Provider_245,Family Medicine,In-Network,Dallas
+P00246,Provider_246,Family Medicine,In-Network,Dallas
+P00247,Provider_247,Family Medicine,In-Network,Dallas
+P00248,Provider_248,Cardiology,In-Network,Dallas
+P00249,Provider_249,Family Medicine,In-Network,Dallas
+P00250,Provider_250,Family Medicine,In-Network,Dallas
+P00251,Provider_251,Family Medicine,In-Network,Dallas
+P00252,Provider_252,Cardiology,In-Network,Dallas
+P00253,Provider_253,Family Medicine,In-Network,Dallas
+P00254,Provider_254,Family Medicine,In-Network,Dallas
+P00255,Provider_255,Family Medicine,In-Network,Dallas
+P00256,Provider_256,Cardiology,In-Network,Dallas
+P00257,Provider_257,Family Medicine,In-Network,Dallas
+P00258,Provider_258,Family Medicine,In-Network,Dallas
+P00259,Provider_259,Family Medicine,In-Network,Dallas
+P00260,Provider_260,Cardiology,In-Network,Dallas
+P00261,Provider_261,Family Medicine,In-Network,Dallas
+P00262,Provider_262,Family Medicine,In-Network,Dallas
+P00263,Provider_263,Family Medicine,In-Network,Dallas
+P00264,Provider_264,Cardiology,In-Network,Dallas
+P00265,Provider_265,Family Medicine,In-Network,Dallas
+P00266,Provider_266,Family Medicine,In-Network,Dallas
+P00267,Provider_267,Family Medicine,In-Network,Dallas
+P00268,Provider_268,Cardiology,In-Network,Dallas
+P00269,Provider_269,Family Medicine,In-Network,Dallas
+P00270,Provider_270,Family Medicine,In-Network,Dallas
+P00271,Provider_271,Family Medicine,In-Network,Dallas
+P00272,Provider_272,Cardiology,In-Network,Dallas
+P00273,Provider_273,Family Medicine,In-Network,Dallas
+P00274,Provider_274,Family Medicine,In-Network,Dallas
+P00275,Provider_275,Family Medicine,In-Network,Dallas
+P00276,Provider_276,Cardiology,In-Network,Dallas
+P00277,Provider_277,Family Medicine,In-Network,Dallas
+P00278,Provider_278,Family Medicine,In-Network,Dallas
+P00279,Provider_279,Family Medicine,In-Network,Dallas
+P00280,Provider_280,Cardiology,In-Network,Dallas
+P00281,Provider_281,Family Medicine,In-Network,Dallas
+P00282,Provider_282,Family Medicine,In-Network,Dallas
+P00283,Provider_283,Family Medicine,In-Network,Dallas
+P00284,Provider_284,Cardiology,In-Network,Dallas
+P00285,Provider_285,Family Medicine,In-Network,Dallas
+P00286,Provider_286,Family Medicine,In-Network,Dallas
+P00287,Provider_287,Family Medicine,In-Network,Dallas
+P00288,Provider_288,Cardiology,In-Network,Dallas
+P00289,Provider_289,Family Medicine,In-Network,Dallas
+P00290,Provider_290,Family Medicine,In-Network,Dallas
+P00291,Provider_291,Family Medicine,In-Network,Dallas
+P00292,Provider_292,Cardiology,In-Network,Dallas
+P00293,Provider_293,Family Medicine,In-Network,Dallas
+P00294,Provider_294,Family Medicine,In-Network,Dallas
+P00295,Provider_295,Family Medicine,In-Network,Dallas
+P00296,Provider_296,Cardiology,In-Network,Dallas
+P00297,Provider_297,Family Medicine,In-Network,Dallas
+P00298,Provider_298,Family Medicine,In-Network,Dallas
+P00299,Provider_299,Family Medicine,In-Network,Dallas
+P00300,Provider_300,Cardiology,In-Network,Dallas
+P00301,Provider_301,Family Medicine,In-Network,Dallas
+P00302,Provider_302,Family Medicine,In-Network,Dallas
+P00303,Provider_303,Family Medicine,In-Network,Dallas
+P00304,Provider_304,Cardiology,In-Network,Dallas
+P00305,Provider_305,Family Medicine,In-Network,Dallas
+P00306,Provider_306,Family Medicine,In-Network,Dallas
+P00307,Provider_307,Family Medicine,In-Network,Dallas
+P00308,Provider_308,Cardiology,In-Network,Dallas
+P00309,Provider_309,Family Medicine,In-Network,Dallas
+P00310,Provider_310,Family Medicine,In-Network,Dallas
+P00311,Provider_311,Family Medicine,In-Network,Dallas
+P00312,Provider_312,Cardiology,In-Network,Dallas
+P00313,Provider_313,Family Medicine,In-Network,Dallas
+P00314,Provider_314,Family Medicine,In-Network,Dallas
+P00315,Provider_315,Family Medicine,In-Network,Dallas
+P00316,Provider_316,Cardiology,In-Network,Dallas
+P00317,Provider_317,Family Medicine,In-Network,Dallas
+P00318,Provider_318,Family Medicine,In-Network,Dallas
+P00319,Provider_319,Family Medicine,In-Network,Dallas
+P00320,Provider_320,Cardiology,In-Network,Dallas
+P00321,Provider_321,Family Medicine,In-Network,Dallas
+P00322,Provider_322,Family Medicine,In-Network,Dallas
+P00323,Provider_323,Family Medicine,In-Network,Dallas
+P00324,Provider_324,Cardiology,In-Network,Dallas
+P00325,Provider_325,Family Medicine,In-Network,Dallas
+P00326,Provider_326,Family Medicine,In-Network,Dallas
+P00327,Provider_327,Family Medicine,In-Network,Dallas
+P00328,Provider_328,Cardiology,In-Network,Dallas
+P00329,Provider_329,Family Medicine,In-Network,Dallas
+P00330,Provider_330,Family Medicine,In-Network,Dallas
+P00331,Provider_331,Family Medicine,In-Network,Dallas
+P00332,Provider_332,Cardiology,In-Network,Dallas
+P00333,Provider_333,Family Medicine,In-Network,Dallas
+P00334,Provider_334,Family Medicine,In-Network,Dallas
+P00335,Provider_335,Family Medicine,In-Network,Dallas
+P00336,Provider_336,Cardiology,In-Network,Dallas
+P00337,Provider_337,Family Medicine,In-Network,Dallas
+P00338,Provider_338,Family Medicine,In-Network,Dallas
+P00339,Provider_339,Family Medicine,In-Network,Dallas
+P00340,Provider_340,Cardiology,In-Network,Dallas
+P00341,Provider_341,Family Medicine,In-Network,Dallas
+P00342,Provider_342,Family Medicine,In-Network,Dallas
+P00343,Provider_343,Family Medicine,In-Network,Dallas
+P00344,Provider_344,Cardiology,In-Network,Dallas
+P00345,Provider_345,Family Medicine,In-Network,Dallas
+P00346,Provider_346,Family Medicine,In-Network,Dallas
+P00347,Provider_347,Family Medicine,In-Network,Dallas
+P00348,Provider_348,Cardiology,In-Network,Dallas
+P00349,Provider_349,Family Medicine,In-Network,Dallas
+P00350,Provider_350,Family Medicine,In-Network,Dallas
+P00351,Provider_351,Family Medicine,In-Network,Dallas
+P00352,Provider_352,Cardiology,In-Network,Dallas
+P00353,Provider_353,Family Medicine,In-Network,Dallas
+P00354,Provider_354,Family Medicine,In-Network,Dallas
+P00355,Provider_355,Family Medicine,In-Network,Dallas
+P00356,Provider_356,Cardiology,In-Network,Dallas
+P00357,Provider_357,Family Medicine,In-Network,Dallas
+P00358,Provider_358,Family Medicine,In-Network,Dallas
+P00359,Provider_359,Family Medicine,In-Network,Dallas
+P00360,Provider_360,Cardiology,In-Network,Dallas
+P00361,Provider_361,Family Medicine,In-Network,Dallas
+P00362,Provider_362,Family Medicine,In-Network,Dallas
+P00363,Provider_363,Family Medicine,In-Network,Dallas
+P00364,Provider_364,Cardiology,In-Network,Dallas
+P00365,Provider_365,Family Medicine,In-Network,Dallas
+P00366,Provider_366,Family Medicine,In-Network,Dallas
+P00367,Provider_367,Family Medicine,In-Network,Dallas
+P00368,Provider_368,Cardiology,In-Network,Dallas
+P00369,Provider_369,Family Medicine,In-Network,Dallas
+P00370,Provider_370,Family Medicine,In-Network,Dallas
+P00371,Provider_371,Family Medicine,In-Network,Dallas
+P00372,Provider_372,Cardiology,In-Network,Dallas
+P00373,Provider_373,Family Medicine,In-Network,Dallas
+P00374,Provider_374,Family Medicine,In-Network,Dallas
+P00375,Provider_375,Family Medicine,In-Network,Dallas
+P00376,Provider_376,Cardiology,In-Network,Dallas
+P00377,Provider_377,Family Medicine,In-Network,Dallas
+P00378,Provider_378,Family Medicine,In-Network,Dallas
+P00379,Provider_379,Family Medicine,In-Network,Dallas
+P00380,Provider_380,Cardiology,In-Network,Dallas
+P00381,Provider_381,Family Medicine,In-Network,Dallas
+P00382,Provider_382,Family Medicine,In-Network,Dallas
+P00383,Provider_383,Family Medicine,In-Network,Dallas
+P00384,Provider_384,Cardiology,In-Network,Dallas
+P00385,Provider_385,Family Medicine,In-Network,Dallas
+P00386,Provider_386,Family Medicine,In-Network,Dallas
+P00387,Provider_387,Family Medicine,In-Network,Dallas
+P00388,Provider_388,Cardiology,In-Network,Dallas
+P00389,Provider_389,Family Medicine,In-Network,Dallas
+P00390,Provider_390,Family Medicine,In-Network,Dallas
+P00391,Provider_391,Family Medicine,In-Network,Dallas
+P00392,Provider_392,Cardiology,In-Network,Dallas
+P00393,Provider_393,Family Medicine,In-Network,Dallas
+P00394,Provider_394,Family Medicine,In-Network,Dallas
+P00395,Provider_395,Family Medicine,In-Network,Dallas
+P00396,Provider_396,Cardiology,In-Network,Dallas
+P00397,Provider_397,Family Medicine,In-Network,Dallas
+P00398,Provider_398,Family Medicine,In-Network,Dallas
+P00399,Provider_399,Family Medicine,In-Network,Dallas
+P00400,Provider_400,Cardiology,In-Network,Dallas
+P00401,Provider_401,Family Medicine,In-Network,Dallas
+P00402,Provider_402,Family Medicine,In-Network,Dallas
+P00403,Provider_403,Family Medicine,In-Network,Dallas
+P00404,Provider_404,Cardiology,In-Network,Dallas
+P00405,Provider_405,Family Medicine,In-Network,Dallas
+P00406,Provider_406,Family Medicine,In-Network,Dallas
+P00407,Provider_407,Family Medicine,In-Network,Dallas
+P00408,Provider_408,Cardiology,In-Network,Dallas
+P00409,Provider_409,Family Medicine,In-Network,Dallas
+P00410,Provider_410,Family Medicine,In-Network,Dallas
+P00411,Provider_411,Family Medicine,In-Network,Dallas
+P00412,Provider_412,Cardiology,In-Network,Dallas
+P00413,Provider_413,Family Medicine,In-Network,Dallas
+P00414,Provider_414,Family Medicine,In-Network,Dallas
+P00415,Provider_415,Family Medicine,In-Network,Dallas
+P00416,Provider_416,Cardiology,In-Network,Dallas
+P00417,Provider_417,Family Medicine,In-Network,Dallas
+P00418,Provider_418,Family Medicine,In-Network,Dallas
+P00419,Provider_419,Family Medicine,In-Network,Dallas
+P00420,Provider_420,Cardiology,In-Network,Dallas
+P00421,Provider_421,Family Medicine,In-Network,Dallas
+P00422,Provider_422,Family Medicine,In-Network,Dallas
+P00423,Provider_423,Family Medicine,In-Network,Dallas
+P00424,Provider_424,Cardiology,In-Network,Dallas
+P00425,Provider_425,Family Medicine,In-Network,Dallas
+P00426,Provider_426,Family Medicine,In-Network,Dallas
+P00427,Provider_427,Family Medicine,In-Network,Dallas
+P00428,Provider_428,Cardiology,In-Network,Dallas
+P00429,Provider_429,Family Medicine,In-Network,Dallas
+P00430,Provider_430,Family Medicine,In-Network,Dallas
+P00431,Provider_431,Family Medicine,In-Network,Dallas
+P00432,Provider_432,Cardiology,In-Network,Dallas
+P00433,Provider_433,Family Medicine,In-Network,Dallas
+P00434,Provider_434,Family Medicine,In-Network,Dallas
+P00435,Provider_435,Family Medicine,In-Network,Dallas
+P00436,Provider_436,Cardiology,In-Network,Dallas
+P00437,Provider_437,Family Medicine,In-Network,Dallas
+P00438,Provider_438,Family Medicine,In-Network,Dallas
+P00439,Provider_439,Family Medicine,In-Network,Dallas
+P00440,Provider_440,Cardiology,In-Network,Dallas
+P00441,Provider_441,Family Medicine,In-Network,Dallas
+P00442,Provider_442,Family Medicine,In-Network,Dallas
+P00443,Provider_443,Family Medicine,In-Network,Dallas
+P00444,Provider_444,Cardiology,In-Network,Dallas
+P00445,Provider_445,Family Medicine,In-Network,Dallas
+P00446,Provider_446,Family Medicine,In-Network,Dallas
+P00447,Provider_447,Family Medicine,In-Network,Dallas
+P00448,Provider_448,Cardiology,In-Network,Dallas
+P00449,Provider_449,Family Medicine,In-Network,Dallas
+P00450,Provider_450,Family Medicine,In-Network,Dallas
+P00451,Provider_451,Family Medicine,In-Network,Dallas
+P00452,Provider_452,Cardiology,In-Network,Dallas
+P00453,Provider_453,Family Medicine,In-Network,Dallas
+P00454,Provider_454,Family Medicine,In-Network,Dallas
+P00455,Provider_455,Family Medicine,In-Network,Dallas
+P00456,Provider_456,Cardiology,In-Network,Dallas
+P00457,Provider_457,Family Medicine,In-Network,Dallas
+P00458,Provider_458,Family Medicine,In-Network,Dallas
+P00459,Provider_459,Family Medicine,In-Network,Dallas
+P00460,Provider_460,Cardiology,In-Network,Dallas
+P00461,Provider_461,Family Medicine,In-Network,Dallas
+P00462,Provider_462,Family Medicine,In-Network,Dallas
+P00463,Provider_463,Family Medicine,In-Network,Dallas
+P00464,Provider_464,Cardiology,In-Network,Dallas
+P00465,Provider_465,Family Medicine,In-Network,Dallas
+P00466,Provider_466,Family Medicine,In-Network,Dallas
+P00467,Provider_467,Family Medicine,In-Network,Dallas
+P00468,Provider_468,Cardiology,In-Network,Dallas
+P00469,Provider_469,Family Medicine,In-Network,Dallas
+P00470,Provider_470,Family Medicine,In-Network,Dallas
+P00471,Provider_471,Family Medicine,In-Network,Dallas
+P00472,Provider_472,Cardiology,In-Network,Dallas
+P00473,Provider_473,Family Medicine,In-Network,Dallas
+P00474,Provider_474,Family Medicine,In-Network,Dallas
+P00475,Provider_475,Family Medicine,In-Network,Dallas
+P00476,Provider_476,Cardiology,In-Network,Dallas
+P00477,Provider_477,Family Medicine,In-Network,Dallas
+P00478,Provider_478,Family Medicine,In-Network,Dallas
+P00479,Provider_479,Family Medicine,In-Network,Dallas
+P00480,Provider_480,Cardiology,In-Network,Dallas
+P00481,Provider_481,Family Medicine,In-Network,Dallas
+P00482,Provider_482,Family Medicine,In-Network,Dallas
+P00483,Provider_483,Family Medicine,In-Network,Dallas
+P00484,Provider_484,Cardiology,In-Network,Dallas
+P00485,Provider_485,Family Medicine,In-Network,Dallas
+P00486,Provider_486,Family Medicine,In-Network,Dallas
+P00487,Provider_487,Family Medicine,In-Network,Dallas
+P00488,Provider_488,Cardiology,In-Network,Dallas
+P00489,Provider_489,Family Medicine,In-Network,Dallas
+P00490,Provider_490,Family Medicine,In-Network,Dallas
+P00491,Provider_491,Family Medicine,In-Network,Dallas
+P00492,Provider_492,Cardiology,In-Network,Dallas
+P00493,Provider_493,Family Medicine,In-Network,Dallas
+P00494,Provider_494,Family Medicine,In-Network,Dallas
+P00495,Provider_495,Family Medicine,In-Network,Dallas
+P00496,Provider_496,Cardiology,In-Network,Dallas
+P00497,Provider_497,Family Medicine,In-Network,Dallas
+P00498,Provider_498,Family Medicine,In-Network,Dallas
+P00499,Provider_499,Family Medicine,In-Network,Dallas
+P00500,Provider_500,Cardiology,In-Network,Dallas
+P00501,Provider_501,Family Medicine,In-Network,Dallas
+P00502,Provider_502,Family Medicine,In-Network,Dallas
+P00503,Provider_503,Family Medicine,In-Network,Dallas
+P00504,Provider_504,Cardiology,In-Network,Dallas
+P00505,Provider_505,Family Medicine,In-Network,Dallas
+P00506,Provider_506,Family Medicine,In-Network,Dallas
+P00507,Provider_507,Family Medicine,In-Network,Dallas
+P00508,Provider_508,Cardiology,In-Network,Dallas
+P00509,Provider_509,Family Medicine,In-Network,Dallas
+P00510,Provider_510,Family Medicine,In-Network,Dallas
+P00511,Provider_511,Family Medicine,In-Network,Dallas
+P00512,Provider_512,Cardiology,In-Network,Dallas
+P00513,Provider_513,Family Medicine,In-Network,Dallas
+P00514,Provider_514,Family Medicine,In-Network,Dallas
+P00515,Provider_515,Family Medicine,In-Network,Dallas
+P00516,Provider_516,Cardiology,In-Network,Dallas
+P00517,Provider_517,Family Medicine,In-Network,Dallas
+P00518,Provider_518,Family Medicine,In-Network,Dallas
+P00519,Provider_519,Family Medicine,In-Network,Dallas
+P00520,Provider_520,Cardiology,In-Network,Dallas
+P00521,Provider_521,Family Medicine,In-Network,Dallas
+P00522,Provider_522,Family Medicine,In-Network,Dallas
+P00523,Provider_523,Family Medicine,In-Network,Dallas
+P00524,Provider_524,Cardiology,In-Network,Dallas
+P00525,Provider_525,Family Medicine,In-Network,Dallas
+P00526,Provider_526,Family Medicine,In-Network,Dallas
+P00527,Provider_527,Family Medicine,In-Network,Dallas
+P00528,Provider_528,Cardiology,In-Network,Dallas
+P00529,Provider_529,Family Medicine,In-Network,Dallas
+P00530,Provider_530,Family Medicine,In-Network,Dallas
+P00531,Provider_531,Family Medicine,In-Network,Dallas
+P00532,Provider_532,Cardiology,In-Network,Dallas
+P00533,Provider_533,Family Medicine,In-Network,Dallas
+P00534,Provider_534,Family Medicine,In-Network,Dallas
+P00535,Provider_535,Family Medicine,In-Network,Dallas
+P00536,Provider_536,Cardiology,In-Network,Dallas
+P00537,Provider_537,Family Medicine,In-Network,Dallas
+P00538,Provider_538,Family Medicine,In-Network,Dallas
+P00539,Provider_539,Family Medicine,In-Network,Dallas
+P00540,Provider_540,Cardiology,In-Network,Dallas
+P00541,Provider_541,Family Medicine,In-Network,Dallas
+P00542,Provider_542,Family Medicine,In-Network,Dallas
+P00543,Provider_543,Family Medicine,In-Network,Dallas
+P00544,Provider_544,Cardiology,In-Network,Dallas
+P00545,Provider_545,Family Medicine,In-Network,Dallas
+P00546,Provider_546,Family Medicine,In-Network,Dallas
+P00547,Provider_547,Family Medicine,In-Network,Dallas
+P00548,Provider_548,Cardiology,In-Network,Dallas
+P00549,Provider_549,Family Medicine,In-Network,Dallas
+P00550,Provider_550,Family Medicine,In-Network,Dallas
+P00551,Provider_551,Family Medicine,In-Network,Dallas
+P00552,Provider_552,Cardiology,In-Network,Dallas
+P00553,Provider_553,Family Medicine,In-Network,Dallas
+P00554,Provider_554,Family Medicine,In-Network,Dallas
+P00555,Provider_555,Family Medicine,In-Network,Dallas
+P00556,Provider_556,Cardiology,In-Network,Dallas
+P00557,Provider_557,Family Medicine,In-Network,Dallas
+P00558,Provider_558,Family Medicine,In-Network,Dallas
+P00559,Provider_559,Family Medicine,In-Network,Dallas
+P00560,Provider_560,Cardiology,In-Network,Dallas
+P00561,Provider_561,Family Medicine,In-Network,Dallas
+P00562,Provider_562,Family Medicine,In-Network,Dallas
+P00563,Provider_563,Family Medicine,In-Network,Dallas
+P00564,Provider_564,Cardiology,In-Network,Dallas
+P00565,Provider_565,Family Medicine,In-Network,Dallas
+P00566,Provider_566,Family Medicine,In-Network,Dallas
+P00567,Provider_567,Family Medicine,In-Network,Dallas
+P00568,Provider_568,Cardiology,In-Network,Dallas
+P00569,Provider_569,Family Medicine,In-Network,Dallas
+P00570,Provider_570,Family Medicine,In-Network,Dallas
+P00571,Provider_571,Family Medicine,In-Network,Dallas
+P00572,Provider_572,Cardiology,In-Network,Dallas
+P00573,Provider_573,Family Medicine,In-Network,Dallas
+P00574,Provider_574,Family Medicine,In-Network,Dallas
+P00575,Provider_575,Family Medicine,In-Network,Dallas
+P00576,Provider_576,Cardiology,In-Network,Dallas
+P00577,Provider_577,Family Medicine,In-Network,Dallas
+P00578,Provider_578,Family Medicine,In-Network,Dallas
+P00579,Provider_579,Family Medicine,In-Network,Dallas
+P00580,Provider_580,Cardiology,In-Network,Dallas
+P00581,Provider_581,Family Medicine,In-Network,Dallas
+P00582,Provider_582,Family Medicine,In-Network,Dallas
+P00583,Provider_583,Family Medicine,In-Network,Dallas
+P00584,Provider_584,Cardiology,In-Network,Dallas
+P00585,Provider_585,Family Medicine,In-Network,Dallas
+P00586,Provider_586,Family Medicine,In-Network,Dallas
+P00587,Provider_587,Family Medicine,In-Network,Dallas
+P00588,Provider_588,Cardiology,In-Network,Dallas
+P00589,Provider_589,Family Medicine,In-Network,Dallas
+P00590,Provider_590,Family Medicine,In-Network,Dallas
+P00591,Provider_591,Family Medicine,In-Network,Dallas
+P00592,Provider_592,Cardiology,In-Network,Dallas
+P00593,Provider_593,Family Medicine,In-Network,Dallas
+P00594,Provider_594,Family Medicine,In-Network,Dallas
+P00595,Provider_595,Family Medicine,In-Network,Dallas
+P00596,Provider_596,Cardiology,In-Network,Dallas
+P00597,Provider_597,Family Medicine,In-Network,Dallas
+P00598,Provider_598,Family Medicine,In-Network,Dallas
+P00599,Provider_599,Family Medicine,In-Network,Dallas
+P00600,Provider_600,Cardiology,In-Network,Dallas
+P00601,Provider_601,Family Medicine,In-Network,Dallas
+P00602,Provider_602,Family Medicine,In-Network,Dallas
+P00603,Provider_603,Family Medicine,In-Network,Dallas
+P00604,Provider_604,Cardiology,In-Network,Dallas
+P00605,Provider_605,Family Medicine,In-Network,Dallas
+P00606,Provider_606,Family Medicine,In-Network,Dallas
+P00607,Provider_607,Family Medicine,In-Network,Dallas
+P00608,Provider_608,Cardiology,In-Network,Dallas
+P00609,Provider_609,Family Medicine,In-Network,Dallas
+P00610,Provider_610,Family Medicine,In-Network,Dallas
+P00611,Provider_611,Family Medicine,In-Network,Dallas
+P00612,Provider_612,Cardiology,In-Network,Dallas
+P00613,Provider_613,Family Medicine,In-Network,Dallas
+P00614,Provider_614,Family Medicine,In-Network,Dallas
+P00615,Provider_615,Family Medicine,In-Network,Dallas
+P00616,Provider_616,Cardiology,In-Network,Dallas
+P00617,Provider_617,Family Medicine,In-Network,Dallas
+P00618,Provider_618,Family Medicine,In-Network,Dallas
+P00619,Provider_619,Family Medicine,In-Network,Dallas
+P00620,Provider_620,Cardiology,In-Network,Dallas
+P00621,Provider_621,Family Medicine,In-Network,Dallas
+P00622,Provider_622,Family Medicine,In-Network,Dallas
+P00623,Provider_623,Family Medicine,In-Network,Dallas
+P00624,Provider_624,Cardiology,In-Network,Dallas
+P00625,Provider_625,Family Medicine,In-Network,Dallas
+P00626,Provider_626,Family Medicine,In-Network,Dallas
+P00627,Provider_627,Family Medicine,In-Network,Dallas
+P00628,Provider_628,Cardiology,In-Network,Dallas
+P00629,Provider_629,Family Medicine,In-Network,Dallas
+P00630,Provider_630,Family Medicine,In-Network,Dallas
+P00631,Provider_631,Family Medicine,In-Network,Dallas
+P00632,Provider_632,Cardiology,In-Network,Dallas
+P00633,Provider_633,Family Medicine,In-Network,Dallas
+P00634,Provider_634,Family Medicine,In-Network,Dallas
+P00635,Provider_635,Family Medicine,In-Network,Dallas
+P00636,Provider_636,Cardiology,In-Network,Dallas
+P00637,Provider_637,Family Medicine,In-Network,Dallas
+P00638,Provider_638,Family Medicine,In-Network,Dallas
+P00639,Provider_639,Family Medicine,In-Network,Dallas
+P00640,Provider_640,Cardiology,In-Network,Dallas
+P00641,Provider_641,Family Medicine,In-Network,Dallas
+P00642,Provider_642,Family Medicine,In-Network,Dallas
+P00643,Provider_643,Family Medicine,In-Network,Dallas
+P00644,Provider_644,Cardiology,In-Network,Dallas
+P00645,Provider_645,Family Medicine,In-Network,Dallas
+P00646,Provider_646,Family Medicine,In-Network,Dallas
+P00647,Provider_647,Family Medicine,In-Network,Dallas
+P00648,Provider_648,Cardiology,In-Network,Dallas
+P00649,Provider_649,Family Medicine,In-Network,Dallas
+P00650,Provider_650,Family Medicine,In-Network,Dallas
+P00651,Provider_651,Family Medicine,In-Network,Dallas
+P00652,Provider_652,Cardiology,In-Network,Dallas
+P00653,Provider_653,Family Medicine,In-Network,Dallas
+P00654,Provider_654,Family Medicine,In-Network,Dallas
+P00655,Provider_655,Family Medicine,In-Network,Dallas
+P00656,Provider_656,Cardiology,In-Network,Dallas
+P00657,Provider_657,Family Medicine,In-Network,Dallas
+P00658,Provider_658,Family Medicine,In-Network,Dallas
+P00659,Provider_659,Family Medicine,In-Network,Dallas
+P00660,Provider_660,Cardiology,In-Network,Dallas
+P00661,Provider_661,Family Medicine,In-Network,Dallas
+P00662,Provider_662,Family Medicine,In-Network,Dallas
+P00663,Provider_663,Family Medicine,In-Network,Dallas
+P00664,Provider_664,Cardiology,In-Network,Dallas
+P00665,Provider_665,Family Medicine,In-Network,Dallas
+P00666,Provider_666,Family Medicine,In-Network,Dallas
+P00667,Provider_667,Family Medicine,In-Network,Dallas
+P00668,Provider_668,Cardiology,In-Network,Dallas
+P00669,Provider_669,Family Medicine,In-Network,Dallas
+P00670,Provider_670,Family Medicine,In-Network,Dallas
+P00671,Provider_671,Family Medicine,In-Network,Dallas
+P00672,Provider_672,Cardiology,In-Network,Dallas
+P00673,Provider_673,Family Medicine,In-Network,Dallas
+P00674,Provider_674,Family Medicine,In-Network,Dallas
+P00675,Provider_675,Family Medicine,In-Network,Dallas
+P00676,Provider_676,Cardiology,In-Network,Dallas
+P00677,Provider_677,Family Medicine,In-Network,Dallas
+P00678,Provider_678,Family Medicine,In-Network,Dallas
+P00679,Provider_679,Family Medicine,In-Network,Dallas
+P00680,Provider_680,Cardiology,In-Network,Dallas
+P00681,Provider_681,Family Medicine,In-Network,Dallas
+P00682,Provider_682,Family Medicine,In-Network,Dallas
+P00683,Provider_683,Family Medicine,In-Network,Dallas
+P00684,Provider_684,Cardiology,In-Network,Dallas
+P00685,Provider_685,Family Medicine,In-Network,Dallas
+P00686,Provider_686,Family Medicine,In-Network,Dallas
+P00687,Provider_687,Family Medicine,In-Network,Dallas
+P00688,Provider_688,Cardiology,In-Network,Dallas
+P00689,Provider_689,Family Medicine,In-Network,Dallas
+P00690,Provider_690,Family Medicine,In-Network,Dallas
+P00691,Provider_691,Family Medicine,In-Network,Dallas
+P00692,Provider_692,Cardiology,In-Network,Dallas
+P00693,Provider_693,Family Medicine,In-Network,Dallas
+P00694,Provider_694,Family Medicine,In-Network,Dallas
+P00695,Provider_695,Family Medicine,In-Network,Dallas
+P00696,Provider_696,Cardiology,In-Network,Dallas
+P00697,Provider_697,Family Medicine,In-Network,Dallas
+P00698,Provider_698,Family Medicine,In-Network,Dallas
+P00699,Provider_699,Family Medicine,In-Network,Dallas
+P00700,Provider_700,Cardiology,In-Network,Dallas
+P00701,Provider_701,Family Medicine,In-Network,Dallas
+P00702,Provider_702,Family Medicine,In-Network,Dallas
+P00703,Provider_703,Family Medicine,In-Network,Dallas
+P00704,Provider_704,Cardiology,In-Network,Dallas
+P00705,Provider_705,Family Medicine,In-Network,Dallas
+P00706,Provider_706,Family Medicine,In-Network,Dallas
+P00707,Provider_707,Family Medicine,In-Network,Dallas
+P00708,Provider_708,Cardiology,In-Network,Dallas
+P00709,Provider_709,Family Medicine,In-Network,Dallas
+P00710,Provider_710,Family Medicine,In-Network,Dallas
+P00711,Provider_711,Family Medicine,In-Network,Dallas
+P00712,Provider_712,Cardiology,In-Network,Dallas
+P00713,Provider_713,Family Medicine,In-Network,Dallas
+P00714,Provider_714,Family Medicine,In-Network,Dallas
+P00715,Provider_715,Family Medicine,In-Network,Dallas
+P00716,Provider_716,Cardiology,In-Network,Dallas
+P00717,Provider_717,Family Medicine,In-Network,Dallas
+P00718,Provider_718,Family Medicine,In-Network,Dallas
+P00719,Provider_719,Family Medicine,In-Network,Dallas
+P00720,Provider_720,Cardiology,In-Network,Dallas
+P00721,Provider_721,Family Medicine,In-Network,Dallas
+P00722,Provider_722,Family Medicine,In-Network,Dallas
+P00723,Provider_723,Family Medicine,In-Network,Dallas
+P00724,Provider_724,Cardiology,In-Network,Dallas
+P00725,Provider_725,Family Medicine,In-Network,Dallas
+P00726,Provider_726,Family Medicine,In-Network,Dallas
+P00727,Provider_727,Family Medicine,In-Network,Dallas
+P00728,Provider_728,Cardiology,In-Network,Dallas
+P00729,Provider_729,Family Medicine,In-Network,Dallas
+P00730,Provider_730,Family Medicine,In-Network,Dallas
+P00731,Provider_731,Family Medicine,In-Network,Dallas
+P00732,Provider_732,Cardiology,In-Network,Dallas
+P00733,Provider_733,Family Medicine,In-Network,Dallas
+P00734,Provider_734,Family Medicine,In-Network,Dallas
+P00735,Provider_735,Family Medicine,In-Network,Dallas
+P00736,Provider_736,Cardiology,In-Network,Dallas
+P00737,Provider_737,Family Medicine,In-Network,Dallas
+P00738,Provider_738,Family Medicine,In-Network,Dallas
+P00739,Provider_739,Family Medicine,In-Network,Dallas
+P00740,Provider_740,Cardiology,In-Network,Dallas
+P00741,Provider_741,Family Medicine,In-Network,Dallas
+P00742,Provider_742,Family Medicine,In-Network,Dallas
+P00743,Provider_743,Family Medicine,In-Network,Dallas
+P00744,Provider_744,Cardiology,In-Network,Dallas
+P00745,Provider_745,Family Medicine,In-Network,Dallas
+P00746,Provider_746,Family Medicine,In-Network,Dallas
+P00747,Provider_747,Family Medicine,In-Network,Dallas
+P00748,Provider_748,Cardiology,In-Network,Dallas
+P00749,Provider_749,Family Medicine,In-Network,Dallas
+P00750,Provider_750,Family Medicine,In-Network,Dallas
+P00751,Provider_751,Family Medicine,In-Network,Dallas
+P00752,Provider_752,Cardiology,In-Network,Dallas
+P00753,Provider_753,Family Medicine,In-Network,Dallas
+P00754,Provider_754,Family Medicine,In-Network,Dallas
+P00755,Provider_755,Family Medicine,In-Network,Dallas
+P00756,Provider_756,Cardiology,In-Network,Dallas
+P00757,Provider_757,Family Medicine,In-Network,Dallas
+P00758,Provider_758,Family Medicine,In-Network,Dallas
+P00759,Provider_759,Family Medicine,In-Network,Dallas
+P00760,Provider_760,Cardiology,In-Network,Dallas
+P00761,Provider_761,Family Medicine,In-Network,Dallas
+P00762,Provider_762,Family Medicine,In-Network,Dallas
+P00763,Provider_763,Family Medicine,In-Network,Dallas
+P00764,Provider_764,Cardiology,In-Network,Dallas
+P00765,Provider_765,Family Medicine,In-Network,Dallas
+P00766,Provider_766,Family Medicine,In-Network,Dallas
+P00767,Provider_767,Family Medicine,In-Network,Dallas
+P00768,Provider_768,Cardiology,In-Network,Dallas
+P00769,Provider_769,Family Medicine,In-Network,Dallas
+P00770,Provider_770,Family Medicine,In-Network,Dallas
+P00771,Provider_771,Family Medicine,In-Network,Dallas
+P00772,Provider_772,Cardiology,In-Network,Dallas
+P00773,Provider_773,Family Medicine,In-Network,Dallas
+P00774,Provider_774,Family Medicine,In-Network,Dallas
+P00775,Provider_775,Family Medicine,In-Network,Dallas
+P00776,Provider_776,Cardiology,In-Network,Dallas
+P00777,Provider_777,Family Medicine,In-Network,Dallas
+P00778,Provider_778,Family Medicine,In-Network,Dallas
+P00779,Provider_779,Family Medicine,In-Network,Dallas
+P00780,Provider_780,Cardiology,In-Network,Dallas
+P00781,Provider_781,Family Medicine,In-Network,Dallas
+P00782,Provider_782,Family Medicine,In-Network,Dallas
+P00783,Provider_783,Family Medicine,In-Network,Dallas
+P00784,Provider_784,Cardiology,In-Network,Dallas
+P00785,Provider_785,Family Medicine,In-Network,Dallas
+P00786,Provider_786,Family Medicine,In-Network,Dallas
+P00787,Provider_787,Family Medicine,In-Network,Dallas
+P00788,Provider_788,Cardiology,In-Network,Dallas
+P00789,Provider_789,Family Medicine,In-Network,Dallas
+P00790,Provider_790,Family Medicine,In-Network,Dallas
+P00791,Provider_791,Family Medicine,In-Network,Dallas
+P00792,Provider_792,Cardiology,In-Network,Dallas
+P00793,Provider_793,Family Medicine,In-Network,Dallas
+P00794,Provider_794,Family Medicine,In-Network,Dallas
+P00795,Provider_795,Family Medicine,In-Network,Dallas
+P00796,Provider_796,Cardiology,In-Network,Dallas
+P00797,Provider_797,Family Medicine,In-Network,Dallas
+P00798,Provider_798,Family Medicine,In-Network,Dallas
+P00799,Provider_799,Family Medicine,In-Network,Dallas
+P00800,Provider_800,Cardiology,In-Network,Dallas
+P00801,Provider_801,Family Medicine,In-Network,Dallas
+P00802,Provider_802,Family Medicine,In-Network,Dallas
+P00803,Provider_803,Family Medicine,In-Network,Dallas
+P00804,Provider_804,Cardiology,In-Network,Dallas
+P00805,Provider_805,Family Medicine,In-Network,Dallas
+P00806,Provider_806,Family Medicine,In-Network,Dallas
+P00807,Provider_807,Family Medicine,In-Network,Dallas
+P00808,Provider_808,Cardiology,In-Network,Dallas
+P00809,Provider_809,Family Medicine,In-Network,Dallas
+P00810,Provider_810,Family Medicine,In-Network,Dallas
+P00811,Provider_811,Family Medicine,In-Network,Dallas
+P00812,Provider_812,Cardiology,In-Network,Dallas
+P00813,Provider_813,Family Medicine,In-Network,Dallas
+P00814,Provider_814,Family Medicine,In-Network,Dallas
+P00815,Provider_815,Family Medicine,In-Network,Dallas
+P00816,Provider_816,Cardiology,In-Network,Dallas
+P00817,Provider_817,Family Medicine,In-Network,Dallas
+P00818,Provider_818,Family Medicine,In-Network,Dallas
+P00819,Provider_819,Family Medicine,In-Network,Dallas
+P00820,Provider_820,Cardiology,In-Network,Dallas
+P00821,Provider_821,Family Medicine,In-Network,Dallas
+P00822,Provider_822,Family Medicine,In-Network,Dallas
+P00823,Provider_823,Family Medicine,In-Network,Dallas
+P00824,Provider_824,Cardiology,In-Network,Dallas
+P00825,Provider_825,Family Medicine,In-Network,Dallas
+P00826,Provider_826,Family Medicine,In-Network,Dallas
+P00827,Provider_827,Family Medicine,In-Network,Dallas
+P00828,Provider_828,Cardiology,In-Network,Dallas
+P00829,Provider_829,Family Medicine,In-Network,Dallas
+P00830,Provider_830,Family Medicine,In-Network,Dallas
+P00831,Provider_831,Family Medicine,In-Network,Dallas
+P00832,Provider_832,Cardiology,In-Network,Dallas
+P00833,Provider_833,Family Medicine,In-Network,Dallas
+P00834,Provider_834,Family Medicine,In-Network,Dallas
+P00835,Provider_835,Family Medicine,In-Network,Dallas
+P00836,Provider_836,Cardiology,In-Network,Dallas
+P00837,Provider_837,Family Medicine,In-Network,Dallas
+P00838,Provider_838,Family Medicine,In-Network,Dallas
+P00839,Provider_839,Family Medicine,In-Network,Dallas
+P00840,Provider_840,Cardiology,In-Network,Dallas
+P00841,Provider_841,Family Medicine,In-Network,Dallas
+P00842,Provider_842,Family Medicine,In-Network,Dallas
+P00843,Provider_843,Family Medicine,In-Network,Dallas
+P00844,Provider_844,Cardiology,In-Network,Dallas
+P00845,Provider_845,Family Medicine,In-Network,Dallas
+P00846,Provider_846,Family Medicine,In-Network,Dallas
+P00847,Provider_847,Family Medicine,In-Network,Dallas
+P00848,Provider_848,Cardiology,In-Network,Dallas
+P00849,Provider_849,Family Medicine,In-Network,Dallas
+P00850,Provider_850,Family Medicine,In-Network,Dallas
+P00851,Provider_851,Family Medicine,In-Network,Dallas
+P00852,Provider_852,Cardiology,In-Network,Dallas
+P00853,Provider_853,Family Medicine,In-Network,Dallas
+P00854,Provider_854,Family Medicine,In-Network,Dallas
+P00855,Provider_855,Family Medicine,In-Network,Dallas
+P00856,Provider_856,Cardiology,In-Network,Dallas
+P00857,Provider_857,Family Medicine,In-Network,Dallas
+P00858,Provider_858,Family Medicine,In-Network,Dallas
+P00859,Provider_859,Family Medicine,In-Network,Dallas
+P00860,Provider_860,Cardiology,In-Network,Dallas
+P00861,Provider_861,Family Medicine,In-Network,Dallas
+P00862,Provider_862,Family Medicine,In-Network,Dallas
+P00863,Provider_863,Family Medicine,In-Network,Dallas
+P00864,Provider_864,Cardiology,In-Network,Dallas
+P00865,Provider_865,Family Medicine,In-Network,Dallas
+P00866,Provider_866,Family Medicine,In-Network,Dallas
+P00867,Provider_867,Family Medicine,In-Network,Dallas
+P00868,Provider_868,Cardiology,In-Network,Dallas
+P00869,Provider_869,Family Medicine,In-Network,Dallas
+P00870,Provider_870,Family Medicine,In-Network,Dallas
+P00871,Provider_871,Family Medicine,In-Network,Dallas
+P00872,Provider_872,Cardiology,In-Network,Dallas
+P00873,Provider_873,Family Medicine,In-Network,Dallas
+P00874,Provider_874,Family Medicine,In-Network,Dallas
+P00875,Provider_875,Family Medicine,In-Network,Dallas
+P00876,Provider_876,Cardiology,In-Network,Dallas
+P00877,Provider_877,Family Medicine,In-Network,Dallas
+P00878,Provider_878,Family Medicine,In-Network,Dallas
+P00879,Provider_879,Family Medicine,In-Network,Dallas
+P00880,Provider_880,Cardiology,In-Network,Dallas
+P00881,Provider_881,Family Medicine,In-Network,Dallas
+P00882,Provider_882,Family Medicine,In-Network,Dallas
+P00883,Provider_883,Family Medicine,In-Network,Dallas
+P00884,Provider_884,Cardiology,In-Network,Dallas
+P00885,Provider_885,Family Medicine,In-Network,Dallas
+P00886,Provider_886,Family Medicine,In-Network,Dallas
+P00887,Provider_887,Family Medicine,In-Network,Dallas
+P00888,Provider_888,Cardiology,In-Network,Dallas
+P00889,Provider_889,Family Medicine,In-Network,Dallas
+P00890,Provider_890,Family Medicine,In-Network,Dallas
+P00891,Provider_891,Family Medicine,In-Network,Dallas
+P00892,Provider_892,Cardiology,In-Network,Dallas
+P00893,Provider_893,Family Medicine,In-Network,Dallas
+P00894,Provider_894,Family Medicine,In-Network,Dallas
+P00895,Provider_895,Family Medicine,In-Network,Dallas
+P00896,Provider_896,Cardiology,In-Network,Dallas
+P00897,Provider_897,Family Medicine,In-Network,Dallas
+P00898,Provider_898,Family Medicine,In-Network,Dallas
+P00899,Provider_899,Family Medicine,In-Network,Dallas
+P00900,Provider_900,Cardiology,In-Network,Dallas
+P00901,Provider_901,Family Medicine,In-Network,Dallas
+P00902,Provider_902,Family Medicine,In-Network,Dallas
+P00903,Provider_903,Family Medicine,In-Network,Dallas
+P00904,Provider_904,Cardiology,In-Network,Dallas
+P00905,Provider_905,Family Medicine,In-Network,Dallas
+P00906,Provider_906,Family Medicine,In-Network,Dallas
+P00907,Provider_907,Family Medicine,In-Network,Dallas
+P00908,Provider_908,Cardiology,In-Network,Dallas
+P00909,Provider_909,Family Medicine,In-Network,Dallas
+P00910,Provider_910,Family Medicine,In-Network,Dallas
+P00911,Provider_911,Family Medicine,In-Network,Dallas
+P00912,Provider_912,Cardiology,In-Network,Dallas
+P00913,Provider_913,Family Medicine,In-Network,Dallas
+P00914,Provider_914,Family Medicine,In-Network,Dallas
+P00915,Provider_915,Family Medicine,In-Network,Dallas
+P00916,Provider_916,Cardiology,In-Network,Dallas
+P00917,Provider_917,Family Medicine,In-Network,Dallas
+P00918,Provider_918,Family Medicine,In-Network,Dallas
+P00919,Provider_919,Family Medicine,In-Network,Dallas
+P00920,Provider_920,Cardiology,In-Network,Dallas
+P00921,Provider_921,Family Medicine,In-Network,Dallas
+P00922,Provider_922,Family Medicine,In-Network,Dallas
+P00923,Provider_923,Family Medicine,In-Network,Dallas
+P00924,Provider_924,Cardiology,In-Network,Dallas
+P00925,Provider_925,Family Medicine,In-Network,Dallas
+P00926,Provider_926,Family Medicine,In-Network,Dallas
+P00927,Provider_927,Family Medicine,In-Network,Dallas
+P00928,Provider_928,Cardiology,In-Network,Dallas
+P00929,Provider_929,Family Medicine,In-Network,Dallas
+P00930,Provider_930,Family Medicine,In-Network,Dallas
+P00931,Provider_931,Family Medicine,In-Network,Dallas
+P00932,Provider_932,Cardiology,In-Network,Dallas
+P00933,Provider_933,Family Medicine,In-Network,Dallas
+P00934,Provider_934,Family Medicine,In-Network,Dallas
+P00935,Provider_935,Family Medicine,In-Network,Dallas
+P00936,Provider_936,Cardiology,In-Network,Dallas
+P00937,Provider_937,Family Medicine,In-Network,Dallas
+P00938,Provider_938,Family Medicine,In-Network,Dallas
+P00939,Provider_939,Family Medicine,In-Network,Dallas
+P00940,Provider_940,Cardiology,In-Network,Dallas
+P00941,Provider_941,Family Medicine,In-Network,Dallas
+P00942,Provider_942,Family Medicine,In-Network,Dallas
+P00943,Provider_943,Family Medicine,In-Network,Dallas
+P00944,Provider_944,Cardiology,In-Network,Dallas
+P00945,Provider_945,Family Medicine,In-Network,Dallas
+P00946,Provider_946,Family Medicine,In-Network,Dallas
+P00947,Provider_947,Family Medicine,In-Network,Dallas
+P00948,Provider_948,Cardiology,In-Network,Dallas
+P00949,Provider_949,Family Medicine,In-Network,Dallas
+P00950,Provider_950,Family Medicine,In-Network,Dallas
+P00951,Provider_951,Family Medicine,In-Network,Dallas
+P00952,Provider_952,Cardiology,In-Network,Dallas
+P00953,Provider_953,Family Medicine,In-Network,Dallas
+P00954,Provider_954,Family Medicine,In-Network,Dallas
+P00955,Provider_955,Family Medicine,In-Network,Dallas
+P00956,Provider_956,Cardiology,In-Network,Dallas
+P00957,Provider_957,Family Medicine,In-Network,Dallas
+P00958,Provider_958,Family Medicine,In-Network,Dallas
+P00959,Provider_959,Family Medicine,In-Network,Dallas
+P00960,Provider_960,Cardiology,In-Network,Dallas
+P00961,Provider_961,Family Medicine,In-Network,Dallas
+P00962,Provider_962,Family Medicine,In-Network,Dallas
+P00963,Provider_963,Family Medicine,In-Network,Dallas
+P00964,Provider_964,Cardiology,In-Network,Dallas
+P00965,Provider_965,Family Medicine,In-Network,Dallas
+P00966,Provider_966,Family Medicine,In-Network,Dallas
+P00967,Provider_967,Family Medicine,In-Network,Dallas
+P00968,Provider_968,Cardiology,In-Network,Dallas
+P00969,Provider_969,Family Medicine,In-Network,Dallas
+P00970,Provider_970,Family Medicine,In-Network,Dallas
+P00971,Provider_971,Family Medicine,In-Network,Dallas
+P00972,Provider_972,Cardiology,In-Network,Dallas
+P00973,Provider_973,Family Medicine,In-Network,Dallas
+P00974,Provider_974,Family Medicine,In-Network,Dallas
+P00975,Provider_975,Family Medicine,In-Network,Dallas
+P00976,Provider_976,Cardiology,In-Network,Dallas
+P00977,Provider_977,Family Medicine,In-Network,Dallas
+P00978,Provider_978,Family Medicine,In-Network,Dallas
+P00979,Provider_979,Family Medicine,In-Network,Dallas
+P00980,Provider_980,Cardiology,In-Network,Dallas
+P00981,Provider_981,Family Medicine,In-Network,Dallas
+P00982,Provider_982,Family Medicine,In-Network,Dallas
+P00983,Provider_983,Family Medicine,In-Network,Dallas
+P00984,Provider_984,Cardiology,In-Network,Dallas
+P00985,Provider_985,Family Medicine,In-Network,Dallas
+P00986,Provider_986,Family Medicine,In-Network,Dallas
+P00987,Provider_987,Family Medicine,In-Network,Dallas
+P00988,Provider_988,Cardiology,In-Network,Dallas
+P00989,Provider_989,Family Medicine,In-Network,Dallas
+P00990,Provider_990,Family Medicine,In-Network,Dallas
+P00991,Provider_991,Family Medicine,In-Network,Dallas
+P00992,Provider_992,Cardiology,In-Network,Dallas
+P00993,Provider_993,Family Medicine,In-Network,Dallas
+P00994,Provider_994,Family Medicine,In-Network,Dallas
+P00995,Provider_995,Family Medicine,In-Network,Dallas
+P00996,Provider_996,Cardiology,In-Network,Dallas
+P00997,Provider_997,Family Medicine,In-Network,Dallas
+P00998,Provider_998,Family Medicine,In-Network,Dallas
+P00999,Provider_999,Family Medicine,In-Network,Dallas
+P01000,Provider_1000,Cardiology,In-Network,Dallas
+P01001,Provider_1001,Family Medicine,In-Network,Dallas
+P01002,Provider_1002,Family Medicine,In-Network,Dallas
+P01003,Provider_1003,Family Medicine,In-Network,Dallas
+P01004,Provider_1004,Cardiology,In-Network,Dallas
+P01005,Provider_1005,Family Medicine,In-Network,Dallas
+P01006,Provider_1006,Family Medicine,In-Network,Dallas
+P01007,Provider_1007,Family Medicine,In-Network,Dallas
+P01008,Provider_1008,Cardiology,In-Network,Dallas
+P01009,Provider_1009,Family Medicine,In-Network,Dallas
+P01010,Provider_1010,Family Medicine,In-Network,Dallas
+P01011,Provider_1011,Family Medicine,In-Network,Dallas
+P01012,Provider_1012,Cardiology,In-Network,Dallas
+P01013,Provider_1013,Family Medicine,In-Network,Dallas
+P01014,Provider_1014,Family Medicine,In-Network,Dallas
+P01015,Provider_1015,Family Medicine,In-Network,Dallas
+P01016,Provider_1016,Cardiology,In-Network,Dallas
+P01017,Provider_1017,Family Medicine,In-Network,Dallas
+P01018,Provider_1018,Family Medicine,In-Network,Dallas
+P01019,Provider_1019,Family Medicine,In-Network,Dallas
+P01020,Provider_1020,Cardiology,In-Network,Dallas
+P01021,Provider_1021,Family Medicine,In-Network,Dallas
+P01022,Provider_1022,Family Medicine,In-Network,Dallas
+P01023,Provider_1023,Family Medicine,In-Network,Dallas
+P01024,Provider_1024,Cardiology,In-Network,Dallas
+P01025,Provider_1025,Family Medicine,In-Network,Dallas
+P01026,Provider_1026,Family Medicine,In-Network,Dallas
+P01027,Provider_1027,Family Medicine,In-Network,Dallas
+P01028,Provider_1028,Cardiology,In-Network,Dallas
+P01029,Provider_1029,Family Medicine,In-Network,Dallas
+P01030,Provider_1030,Family Medicine,In-Network,Dallas
+P01031,Provider_1031,Family Medicine,In-Network,Dallas
+P01032,Provider_1032,Cardiology,In-Network,Dallas
+P01033,Provider_1033,Family Medicine,In-Network,Dallas
+P01034,Provider_1034,Family Medicine,In-Network,Dallas
+P01035,Provider_1035,Family Medicine,In-Network,Dallas
+P01036,Provider_1036,Cardiology,In-Network,Dallas
+P01037,Provider_1037,Family Medicine,In-Network,Dallas
+P01038,Provider_1038,Family Medicine,In-Network,Dallas
+P01039,Provider_1039,Family Medicine,In-Network,Dallas
+P01040,Provider_1040,Cardiology,In-Network,Dallas
+P01041,Provider_1041,Family Medicine,In-Network,Dallas
+P01042,Provider_1042,Family Medicine,In-Network,Dallas
+P01043,Provider_1043,Family Medicine,In-Network,Dallas
+P01044,Provider_1044,Cardiology,In-Network,Dallas
+P01045,Provider_1045,Family Medicine,In-Network,Dallas
+P01046,Provider_1046,Family Medicine,In-Network,Dallas
+P01047,Provider_1047,Family Medicine,In-Network,Dallas
+P01048,Provider_1048,Cardiology,In-Network,Dallas
+P01049,Provider_1049,Family Medicine,In-Network,Dallas
+P01050,Provider_1050,Family Medicine,In-Network,Dallas
+P01051,Provider_1051,Family Medicine,In-Network,Dallas
+P01052,Provider_1052,Cardiology,In-Network,Dallas
+P01053,Provider_1053,Family Medicine,In-Network,Dallas
+P01054,Provider_1054,Family Medicine,In-Network,Dallas
+P01055,Provider_1055,Family Medicine,In-Network,Dallas
+P01056,Provider_1056,Cardiology,In-Network,Dallas
+P01057,Provider_1057,Family Medicine,In-Network,Dallas
+P01058,Provider_1058,Family Medicine,In-Network,Dallas
+P01059,Provider_1059,Family Medicine,In-Network,Dallas
+P01060,Provider_1060,Cardiology,In-Network,Dallas
+P01061,Provider_1061,Family Medicine,In-Network,Dallas
+P01062,Provider_1062,Family Medicine,In-Network,Dallas
+P01063,Provider_1063,Family Medicine,In-Network,Dallas
+P01064,Provider_1064,Cardiology,In-Network,Dallas
+P01065,Provider_1065,Family Medicine,In-Network,Dallas
+P01066,Provider_1066,Family Medicine,In-Network,Dallas
+P01067,Provider_1067,Family Medicine,In-Network,Dallas
+P01068,Provider_1068,Cardiology,In-Network,Dallas
+P01069,Provider_1069,Family Medicine,In-Network,Dallas
+P01070,Provider_1070,Family Medicine,In-Network,Dallas
+P01071,Provider_1071,Family Medicine,In-Network,Dallas
+P01072,Provider_1072,Cardiology,In-Network,Dallas
+P01073,Provider_1073,Family Medicine,In-Network,Dallas
+P01074,Provider_1074,Family Medicine,In-Network,Dallas
+P01075,Provider_1075,Family Medicine,In-Network,Dallas
+P01076,Provider_1076,Cardiology,In-Network,Dallas
+P01077,Provider_1077,Family Medicine,In-Network,Dallas
+P01078,Provider_1078,Family Medicine,In-Network,Dallas
+P01079,Provider_1079,Family Medicine,In-Network,Dallas
+P01080,Provider_1080,Cardiology,In-Network,Dallas
+P01081,Provider_1081,Family Medicine,In-Network,Dallas
+P01082,Provider_1082,Family Medicine,In-Network,Dallas
+P01083,Provider_1083,Family Medicine,In-Network,Dallas
+P01084,Provider_1084,Cardiology,In-Network,Dallas
+P01085,Provider_1085,Family Medicine,In-Network,Dallas
+P01086,Provider_1086,Family Medicine,In-Network,Dallas
+P01087,Provider_1087,Family Medicine,In-Network,Dallas
+P01088,Provider_1088,Cardiology,In-Network,Dallas
+P01089,Provider_1089,Family Medicine,In-Network,Dallas
+P01090,Provider_1090,Family Medicine,In-Network,Dallas
+P01091,Provider_1091,Family Medicine,In-Network,Dallas
+P01092,Provider_1092,Cardiology,In-Network,Dallas
+P01093,Provider_1093,Family Medicine,In-Network,Dallas
+P01094,Provider_1094,Family Medicine,In-Network,Dallas
+P01095,Provider_1095,Family Medicine,In-Network,Dallas
+P01096,Provider_1096,Cardiology,In-Network,Dallas
+P01097,Provider_1097,Family Medicine,In-Network,Dallas
+P01098,Provider_1098,Family Medicine,In-Network,Dallas
+P01099,Provider_1099,Family Medicine,In-Network,Dallas
+P01100,Provider_1100,Cardiology,In-Network,Dallas
+P01101,Provider_1101,Family Medicine,In-Network,Dallas
+P01102,Provider_1102,Family Medicine,In-Network,Dallas
+P01103,Provider_1103,Family Medicine,In-Network,Dallas
+P01104,Provider_1104,Cardiology,In-Network,Dallas
+P01105,Provider_1105,Family Medicine,In-Network,Dallas
+P01106,Provider_1106,Family Medicine,In-Network,Dallas
+P01107,Provider_1107,Family Medicine,In-Network,Dallas
+P01108,Provider_1108,Cardiology,In-Network,Dallas
+P01109,Provider_1109,Family Medicine,In-Network,Dallas
+P01110,Provider_1110,Family Medicine,In-Network,Dallas
+P01111,Provider_1111,Family Medicine,In-Network,Dallas
+P01112,Provider_1112,Cardiology,In-Network,Dallas
+P01113,Provider_1113,Family Medicine,In-Network,Dallas
+P01114,Provider_1114,Family Medicine,In-Network,Dallas
+P01115,Provider_1115,Family Medicine,In-Network,Dallas
+P01116,Provider_1116,Cardiology,In-Network,Dallas
+P01117,Provider_1117,Family Medicine,In-Network,Dallas
+P01118,Provider_1118,Family Medicine,In-Network,Dallas
+P01119,Provider_1119,Family Medicine,In-Network,Dallas
+P01120,Provider_1120,Cardiology,In-Network,Dallas
+P01121,Provider_1121,Family Medicine,In-Network,Dallas
+P01122,Provider_1122,Family Medicine,In-Network,Dallas
+P01123,Provider_1123,Family Medicine,In-Network,Dallas
+P01124,Provider_1124,Cardiology,In-Network,Dallas
+P01125,Provider_1125,Family Medicine,In-Network,Dallas
+P01126,Provider_1126,Family Medicine,In-Network,Dallas
+P01127,Provider_1127,Family Medicine,In-Network,Dallas
+P01128,Provider_1128,Cardiology,In-Network,Dallas
+P01129,Provider_1129,Family Medicine,In-Network,Dallas
+P01130,Provider_1130,Family Medicine,In-Network,Dallas
+P01131,Provider_1131,Family Medicine,In-Network,Dallas
+P01132,Provider_1132,Cardiology,In-Network,Dallas
+P01133,Provider_1133,Family Medicine,In-Network,Dallas
+P01134,Provider_1134,Family Medicine,In-Network,Dallas
+P01135,Provider_1135,Family Medicine,In-Network,Dallas
+P01136,Provider_1136,Cardiology,In-Network,Dallas
+P01137,Provider_1137,Family Medicine,In-Network,Dallas
+P01138,Provider_1138,Family Medicine,In-Network,Dallas
+P01139,Provider_1139,Family Medicine,In-Network,Dallas
+P01140,Provider_1140,Cardiology,In-Network,Dallas
+P01141,Provider_1141,Family Medicine,In-Network,Dallas
+P01142,Provider_1142,Family Medicine,In-Network,Dallas
+P01143,Provider_1143,Family Medicine,In-Network,Dallas
+P01144,Provider_1144,Cardiology,In-Network,Dallas
+P01145,Provider_1145,Family Medicine,In-Network,Dallas
+P01146,Provider_1146,Family Medicine,In-Network,Dallas
+P01147,Provider_1147,Family Medicine,In-Network,Dallas
+P01148,Provider_1148,Cardiology,In-Network,Dallas
+P01149,Provider_1149,Family Medicine,In-Network,Dallas
+P01150,Provider_1150,Family Medicine,In-Network,Dallas
+P01151,Provider_1151,Family Medicine,In-Network,Dallas
+P01152,Provider_1152,Cardiology,In-Network,Dallas
+P01153,Provider_1153,Family Medicine,In-Network,Dallas
+P01154,Provider_1154,Family Medicine,In-Network,Dallas
+P01155,Provider_1155,Family Medicine,In-Network,Dallas
+P01156,Provider_1156,Cardiology,In-Network,Dallas
+P01157,Provider_1157,Family Medicine,In-Network,Dallas
+P01158,Provider_1158,Family Medicine,In-Network,Dallas
+P01159,Provider_1159,Family Medicine,In-Network,Dallas
+P01160,Provider_1160,Cardiology,In-Network,Dallas
+P01161,Provider_1161,Family Medicine,In-Network,Dallas
+P01162,Provider_1162,Family Medicine,In-Network,Dallas
+P01163,Provider_1163,Family Medicine,In-Network,Dallas
+P01164,Provider_1164,Cardiology,In-Network,Dallas
+P01165,Provider_1165,Family Medicine,In-Network,Dallas
+P01166,Provider_1166,Family Medicine,In-Network,Dallas
+P01167,Provider_1167,Family Medicine,In-Network,Dallas
+P01168,Provider_1168,Cardiology,In-Network,Dallas
+P01169,Provider_1169,Family Medicine,In-Network,Dallas
+P01170,Provider_1170,Family Medicine,In-Network,Dallas
+P01171,Provider_1171,Family Medicine,In-Network,Dallas
+P01172,Provider_1172,Cardiology,In-Network,Dallas
+P01173,Provider_1173,Family Medicine,In-Network,Dallas
+P01174,Provider_1174,Family Medicine,In-Network,Dallas
+P01175,Provider_1175,Family Medicine,In-Network,Dallas
+P01176,Provider_1176,Cardiology,In-Network,Dallas
+P01177,Provider_1177,Family Medicine,In-Network,Dallas
+P01178,Provider_1178,Family Medicine,In-Network,Dallas
+P01179,Provider_1179,Family Medicine,In-Network,Dallas
+P01180,Provider_1180,Cardiology,In-Network,Dallas
+P01181,Provider_1181,Family Medicine,In-Network,Dallas
+P01182,Provider_1182,Family Medicine,In-Network,Dallas
+P01183,Provider_1183,Family Medicine,In-Network,Dallas
+P01184,Provider_1184,Cardiology,In-Network,Dallas
+P01185,Provider_1185,Family Medicine,In-Network,Dallas
+P01186,Provider_1186,Family Medicine,In-Network,Dallas
+P01187,Provider_1187,Family Medicine,In-Network,Dallas
+P01188,Provider_1188,Cardiology,In-Network,Dallas
+P01189,Provider_1189,Family Medicine,In-Network,Dallas
+P01190,Provider_1190,Family Medicine,In-Network,Dallas
+P01191,Provider_1191,Family Medicine,In-Network,Dallas
+P01192,Provider_1192,Cardiology,In-Network,Dallas
+P01193,Provider_1193,Family Medicine,In-Network,Dallas
+P01194,Provider_1194,Family Medicine,In-Network,Dallas
+P01195,Provider_1195,Family Medicine,In-Network,Dallas
+P01196,Provider_1196,Cardiology,In-Network,Dallas
+P01197,Provider_1197,Family Medicine,In-Network,Dallas
+P01198,Provider_1198,Family Medicine,In-Network,Dallas
+P01199,Provider_1199,Family Medicine,In-Network,Dallas
+P01200,Provider_1200,Cardiology,In-Network,Dallas
+P01201,Provider_1201,Family Medicine,In-Network,Dallas
+P01202,Provider_1202,Family Medicine,In-Network,Dallas
+P01203,Provider_1203,Family Medicine,In-Network,Dallas
+P01204,Provider_1204,Cardiology,In-Network,Dallas
+P01205,Provider_1205,Family Medicine,In-Network,Dallas
+P01206,Provider_1206,Family Medicine,In-Network,Dallas
+P01207,Provider_1207,Family Medicine,In-Network,Dallas
+P01208,Provider_1208,Cardiology,In-Network,Dallas
+P01209,Provider_1209,Family Medicine,In-Network,Dallas
+P01210,Provider_1210,Family Medicine,In-Network,Dallas
+P01211,Provider_1211,Family Medicine,In-Network,Dallas
+P01212,Provider_1212,Cardiology,In-Network,Dallas
+P01213,Provider_1213,Family Medicine,In-Network,Dallas
+P01214,Provider_1214,Family Medicine,In-Network,Dallas
+P01215,Provider_1215,Family Medicine,In-Network,Dallas
+P01216,Provider_1216,Cardiology,In-Network,Dallas
+P01217,Provider_1217,Family Medicine,In-Network,Dallas
+P01218,Provider_1218,Family Medicine,In-Network,Dallas
+P01219,Provider_1219,Family Medicine,In-Network,Dallas
+P01220,Provider_1220,Cardiology,In-Network,Dallas
+P01221,Provider_1221,Family Medicine,In-Network,Dallas
+P01222,Provider_1222,Family Medicine,In-Network,Dallas
+P01223,Provider_1223,Family Medicine,In-Network,Dallas
+P01224,Provider_1224,Cardiology,In-Network,Dallas
+P01225,Provider_1225,Family Medicine,In-Network,Dallas
+P01226,Provider_1226,Family Medicine,In-Network,Dallas
+P01227,Provider_1227,Family Medicine,In-Network,Dallas
+P01228,Provider_1228,Cardiology,In-Network,Dallas
+P01229,Provider_1229,Family Medicine,In-Network,Dallas
+P01230,Provider_1230,Family Medicine,In-Network,Dallas
+P01231,Provider_1231,Family Medicine,In-Network,Dallas
+P01232,Provider_1232,Cardiology,In-Network,Dallas
+P01233,Provider_1233,Family Medicine,In-Network,Dallas
+P01234,Provider_1234,Family Medicine,In-Network,Dallas
+P01235,Provider_1235,Family Medicine,In-Network,Dallas
+P01236,Provider_1236,Cardiology,In-Network,Dallas
+P01237,Provider_1237,Family Medicine,In-Network,Dallas
+P01238,Provider_1238,Family Medicine,In-Network,Dallas
+P01239,Provider_1239,Family Medicine,In-Network,Dallas
+P01240,Provider_1240,Cardiology,In-Network,Dallas
+P01241,Provider_1241,Family Medicine,In-Network,Dallas
+P01242,Provider_1242,Family Medicine,In-Network,Dallas
+P01243,Provider_1243,Family Medicine,In-Network,Dallas
+P01244,Provider_1244,Cardiology,In-Network,Dallas
+P01245,Provider_1245,Family Medicine,In-Network,Dallas
+P01246,Provider_1246,Family Medicine,In-Network,Dallas
+P01247,Provider_1247,Family Medicine,In-Network,Dallas
+P01248,Provider_1248,Cardiology,In-Network,Dallas
+P01249,Provider_1249,Family Medicine,In-Network,Dallas
+P01250,Provider_1250,Family Medicine,In-Network,Dallas
+P01251,Provider_1251,Family Medicine,In-Network,Dallas
+P01252,Provider_1252,Cardiology,In-Network,Dallas
+P01253,Provider_1253,Family Medicine,In-Network,Dallas
+P01254,Provider_1254,Family Medicine,In-Network,Dallas
+P01255,Provider_1255,Family Medicine,In-Network,Dallas
+P01256,Provider_1256,Cardiology,In-Network,Dallas
+P01257,Provider_1257,Family Medicine,In-Network,Dallas
+P01258,Provider_1258,Family Medicine,In-Network,Dallas
+P01259,Provider_1259,Family Medicine,In-Network,Dallas
+P01260,Provider_1260,Cardiology,In-Network,Dallas
+P01261,Provider_1261,Family Medicine,In-Network,Dallas
+P01262,Provider_1262,Family Medicine,In-Network,Dallas
+P01263,Provider_1263,Family Medicine,In-Network,Dallas
+P01264,Provider_1264,Cardiology,In-Network,Dallas
+P01265,Provider_1265,Family Medicine,In-Network,Dallas
+P01266,Provider_1266,Family Medicine,In-Network,Dallas
+P01267,Provider_1267,Family Medicine,In-Network,Dallas
+P01268,Provider_1268,Cardiology,In-Network,Dallas
+P01269,Provider_1269,Family Medicine,In-Network,Dallas
+P01270,Provider_1270,Family Medicine,In-Network,Dallas
+P01271,Provider_1271,Family Medicine,In-Network,Dallas
+P01272,Provider_1272,Cardiology,In-Network,Dallas
+P01273,Provider_1273,Family Medicine,In-Network,Dallas
+P01274,Provider_1274,Family Medicine,In-Network,Dallas
+P01275,Provider_1275,Family Medicine,In-Network,Dallas
+P01276,Provider_1276,Cardiology,In-Network,Dallas
+P01277,Provider_1277,Family Medicine,In-Network,Dallas
+P01278,Provider_1278,Family Medicine,In-Network,Dallas
+P01279,Provider_1279,Family Medicine,In-Network,Dallas
+P01280,Provider_1280,Cardiology,In-Network,Dallas
+P01281,Provider_1281,Family Medicine,In-Network,Dallas
+P01282,Provider_1282,Family Medicine,In-Network,Dallas
+P01283,Provider_1283,Family Medicine,In-Network,Dallas
+P01284,Provider_1284,Cardiology,In-Network,Dallas
+P01285,Provider_1285,Family Medicine,In-Network,Dallas
+P01286,Provider_1286,Family Medicine,In-Network,Dallas
+P01287,Provider_1287,Family Medicine,In-Network,Dallas
+P01288,Provider_1288,Cardiology,In-Network,Dallas
+P01289,Provider_1289,Family Medicine,In-Network,Dallas
+P01290,Provider_1290,Family Medicine,In-Network,Dallas
+P01291,Provider_1291,Family Medicine,In-Network,Dallas
+P01292,Provider_1292,Cardiology,In-Network,Dallas
+P01293,Provider_1293,Family Medicine,In-Network,Dallas
+P01294,Provider_1294,Family Medicine,In-Network,Dallas
+P01295,Provider_1295,Family Medicine,In-Network,Dallas
+P01296,Provider_1296,Cardiology,In-Network,Dallas
+P01297,Provider_1297,Family Medicine,In-Network,Dallas
+P01298,Provider_1298,Family Medicine,In-Network,Dallas
+P01299,Provider_1299,Family Medicine,In-Network,Dallas
+P01300,Provider_1300,Cardiology,In-Network,Dallas
+P01301,Provider_1301,Family Medicine,In-Network,Dallas
+P01302,Provider_1302,Family Medicine,In-Network,Dallas
+P01303,Provider_1303,Family Medicine,In-Network,Dallas
+P01304,Provider_1304,Cardiology,In-Network,Dallas
+P01305,Provider_1305,Family Medicine,In-Network,Dallas
+P01306,Provider_1306,Family Medicine,In-Network,Dallas
+P01307,Provider_1307,Family Medicine,In-Network,Dallas
+P01308,Provider_1308,Cardiology,In-Network,Dallas
+P01309,Provider_1309,Family Medicine,In-Network,Dallas
+P01310,Provider_1310,Family Medicine,In-Network,Dallas
+P01311,Provider_1311,Family Medicine,In-Network,Dallas
+P01312,Provider_1312,Cardiology,In-Network,Dallas
+P01313,Provider_1313,Family Medicine,In-Network,Dallas
+P01314,Provider_1314,Family Medicine,In-Network,Dallas
+P01315,Provider_1315,Family Medicine,In-Network,Dallas
+P01316,Provider_1316,Cardiology,In-Network,Dallas
+P01317,Provider_1317,Family Medicine,In-Network,Dallas
+P01318,Provider_1318,Family Medicine,In-Network,Dallas
+P01319,Provider_1319,Family Medicine,In-Network,Dallas
+P01320,Provider_1320,Cardiology,In-Network,Dallas
+P01321,Provider_1321,Family Medicine,In-Network,Dallas
+P01322,Provider_1322,Family Medicine,In-Network,Dallas
+P01323,Provider_1323,Family Medicine,In-Network,Dallas
+P01324,Provider_1324,Cardiology,In-Network,Dallas
+P01325,Provider_1325,Family Medicine,In-Network,Dallas
+P01326,Provider_1326,Family Medicine,In-Network,Dallas
+P01327,Provider_1327,Family Medicine,In-Network,Dallas
+P01328,Provider_1328,Cardiology,In-Network,Dallas
+P01329,Provider_1329,Family Medicine,In-Network,Dallas
+P01330,Provider_1330,Family Medicine,In-Network,Dallas
+P01331,Provider_1331,Family Medicine,In-Network,Dallas
+P01332,Provider_1332,Cardiology,In-Network,Dallas
+P01333,Provider_1333,Family Medicine,In-Network,Dallas
+P01334,Provider_1334,Family Medicine,In-Network,Dallas
+P01335,Provider_1335,Family Medicine,In-Network,Dallas
+P01336,Provider_1336,Cardiology,In-Network,Dallas
+P01337,Provider_1337,Family Medicine,In-Network,Dallas
+P01338,Provider_1338,Family Medicine,In-Network,Dallas
+P01339,Provider_1339,Family Medicine,In-Network,Dallas
+P01340,Provider_1340,Cardiology,In-Network,Dallas
+P01341,Provider_1341,Family Medicine,In-Network,Dallas
+P01342,Provider_1342,Family Medicine,In-Network,Dallas
+P01343,Provider_1343,Family Medicine,In-Network,Dallas
+P01344,Provider_1344,Cardiology,In-Network,Dallas
+P01345,Provider_1345,Family Medicine,In-Network,Dallas
+P01346,Provider_1346,Family Medicine,In-Network,Dallas
+P01347,Provider_1347,Family Medicine,In-Network,Dallas
+P01348,Provider_1348,Cardiology,In-Network,Dallas
+P01349,Provider_1349,Family Medicine,In-Network,Dallas
+P01350,Provider_1350,Family Medicine,In-Network,Dallas
+P01351,Provider_1351,Family Medicine,In-Network,Dallas
+P01352,Provider_1352,Cardiology,In-Network,Dallas
+P01353,Provider_1353,Family Medicine,In-Network,Dallas
+P01354,Provider_1354,Family Medicine,In-Network,Dallas
+P01355,Provider_1355,Family Medicine,In-Network,Dallas
+P01356,Provider_1356,Cardiology,In-Network,Dallas
+P01357,Provider_1357,Family Medicine,In-Network,Dallas
+P01358,Provider_1358,Family Medicine,In-Network,Dallas
+P01359,Provider_1359,Family Medicine,In-Network,Dallas
+P01360,Provider_1360,Cardiology,In-Network,Dallas
+P01361,Provider_1361,Family Medicine,In-Network,Dallas
+P01362,Provider_1362,Family Medicine,In-Network,Dallas
+P01363,Provider_1363,Family Medicine,In-Network,Dallas
+P01364,Provider_1364,Cardiology,In-Network,Dallas
+P01365,Provider_1365,Family Medicine,In-Network,Dallas
+P01366,Provider_1366,Family Medicine,In-Network,Dallas
+P01367,Provider_1367,Family Medicine,In-Network,Dallas
+P01368,Provider_1368,Cardiology,In-Network,Dallas
+P01369,Provider_1369,Family Medicine,In-Network,Dallas
+P01370,Provider_1370,Family Medicine,In-Network,Dallas
+P01371,Provider_1371,Family Medicine,In-Network,Dallas
+P01372,Provider_1372,Cardiology,In-Network,Dallas
+P01373,Provider_1373,Family Medicine,In-Network,Dallas
+P01374,Provider_1374,Family Medicine,In-Network,Dallas
+P01375,Provider_1375,Family Medicine,In-Network,Dallas
+P01376,Provider_1376,Cardiology,In-Network,Dallas
+P01377,Provider_1377,Family Medicine,In-Network,Dallas
+P01378,Provider_1378,Family Medicine,In-Network,Dallas
+P01379,Provider_1379,Family Medicine,In-Network,Dallas
+P01380,Provider_1380,Cardiology,In-Network,Dallas
+P01381,Provider_1381,Family Medicine,In-Network,Dallas
+P01382,Provider_1382,Family Medicine,In-Network,Dallas
+P01383,Provider_1383,Family Medicine,In-Network,Dallas
+P01384,Provider_1384,Cardiology,In-Network,Dallas
+P01385,Provider_1385,Family Medicine,In-Network,Dallas
+P01386,Provider_1386,Family Medicine,In-Network,Dallas
+P01387,Provider_1387,Family Medicine,In-Network,Dallas
+P01388,Provider_1388,Cardiology,In-Network,Dallas
+P01389,Provider_1389,Family Medicine,In-Network,Dallas
+P01390,Provider_1390,Family Medicine,In-Network,Dallas
+P01391,Provider_1391,Family Medicine,In-Network,Dallas
+P01392,Provider_1392,Cardiology,In-Network,Dallas
+P01393,Provider_1393,Family Medicine,In-Network,Dallas
+P01394,Provider_1394,Family Medicine,In-Network,Dallas
+P01395,Provider_1395,Family Medicine,In-Network,Dallas
+P01396,Provider_1396,Cardiology,In-Network,Dallas
+P01397,Provider_1397,Family Medicine,In-Network,Dallas
+P01398,Provider_1398,Family Medicine,In-Network,Dallas
+P01399,Provider_1399,Family Medicine,In-Network,Dallas
+P01400,Provider_1400,Cardiology,In-Network,Dallas
+P01401,Provider_1401,Family Medicine,In-Network,Dallas
+P01402,Provider_1402,Family Medicine,In-Network,Dallas
+P01403,Provider_1403,Family Medicine,In-Network,Dallas
+P01404,Provider_1404,Cardiology,In-Network,Dallas
+P01405,Provider_1405,Family Medicine,In-Network,Dallas
+P01406,Provider_1406,Family Medicine,In-Network,Dallas
+P01407,Provider_1407,Family Medicine,In-Network,Dallas
+P01408,Provider_1408,Cardiology,In-Network,Dallas
+P01409,Provider_1409,Family Medicine,In-Network,Dallas
+P01410,Provider_1410,Family Medicine,In-Network,Dallas
+P01411,Provider_1411,Family Medicine,In-Network,Dallas
+P01412,Provider_1412,Cardiology,In-Network,Dallas
+P01413,Provider_1413,Family Medicine,In-Network,Dallas
+P01414,Provider_1414,Family Medicine,In-Network,Dallas
+P01415,Provider_1415,Family Medicine,In-Network,Dallas
+P01416,Provider_1416,Cardiology,In-Network,Dallas
+P01417,Provider_1417,Family Medicine,In-Network,Dallas
+P01418,Provider_1418,Family Medicine,In-Network,Dallas
+P01419,Provider_1419,Family Medicine,In-Network,Dallas
+P01420,Provider_1420,Cardiology,In-Network,Dallas
+P01421,Provider_1421,Family Medicine,In-Network,Dallas
+P01422,Provider_1422,Family Medicine,In-Network,Dallas
+P01423,Provider_1423,Family Medicine,In-Network,Dallas
+P01424,Provider_1424,Cardiology,In-Network,Dallas
+P01425,Provider_1425,Family Medicine,In-Network,Dallas
+P01426,Provider_1426,Family Medicine,In-Network,Dallas
+P01427,Provider_1427,Family Medicine,In-Network,Dallas
+P01428,Provider_1428,Cardiology,In-Network,Dallas
+P01429,Provider_1429,Family Medicine,In-Network,Dallas
+P01430,Provider_1430,Family Medicine,In-Network,Dallas
+P01431,Provider_1431,Family Medicine,In-Network,Dallas
+P01432,Provider_1432,Cardiology,In-Network,Dallas
+P01433,Provider_1433,Family Medicine,In-Network,Dallas
+P01434,Provider_1434,Family Medicine,In-Network,Dallas
+P01435,Provider_1435,Family Medicine,In-Network,Dallas
+P01436,Provider_1436,Cardiology,In-Network,Dallas
+P01437,Provider_1437,Family Medicine,In-Network,Dallas
+P01438,Provider_1438,Family Medicine,In-Network,Dallas
+P01439,Provider_1439,Family Medicine,In-Network,Dallas
+P01440,Provider_1440,Cardiology,In-Network,Dallas
+P01441,Provider_1441,Family Medicine,In-Network,Dallas
+P01442,Provider_1442,Family Medicine,In-Network,Dallas
+P01443,Provider_1443,Family Medicine,In-Network,Dallas
+P01444,Provider_1444,Cardiology,In-Network,Dallas
+P01445,Provider_1445,Family Medicine,In-Network,Dallas
+P01446,Provider_1446,Family Medicine,In-Network,Dallas
+P01447,Provider_1447,Family Medicine,In-Network,Dallas
+P01448,Provider_1448,Cardiology,In-Network,Dallas
+P01449,Provider_1449,Family Medicine,In-Network,Dallas
+P01450,Provider_1450,Family Medicine,In-Network,Dallas
+P01451,Provider_1451,Family Medicine,In-Network,Dallas
+P01452,Provider_1452,Cardiology,In-Network,Dallas
+P01453,Provider_1453,Family Medicine,In-Network,Dallas
+P01454,Provider_1454,Family Medicine,In-Network,Dallas
+P01455,Provider_1455,Family Medicine,In-Network,Dallas
+P01456,Provider_1456,Cardiology,In-Network,Dallas
+P01457,Provider_1457,Family Medicine,In-Network,Dallas
+P01458,Provider_1458,Family Medicine,In-Network,Dallas
+P01459,Provider_1459,Family Medicine,In-Network,Dallas
+P01460,Provider_1460,Cardiology,In-Network,Dallas
+P01461,Provider_1461,Family Medicine,In-Network,Dallas
+P01462,Provider_1462,Family Medicine,In-Network,Dallas
+P01463,Provider_1463,Family Medicine,In-Network,Dallas
+P01464,Provider_1464,Cardiology,In-Network,Dallas
+P01465,Provider_1465,Family Medicine,In-Network,Dallas
+P01466,Provider_1466,Family Medicine,In-Network,Dallas
+P01467,Provider_1467,Family Medicine,In-Network,Dallas
+P01468,Provider_1468,Cardiology,In-Network,Dallas
+P01469,Provider_1469,Family Medicine,In-Network,Dallas
+P01470,Provider_1470,Family Medicine,In-Network,Dallas
+P01471,Provider_1471,Family Medicine,In-Network,Dallas
+P01472,Provider_1472,Cardiology,In-Network,Dallas
+P01473,Provider_1473,Family Medicine,In-Network,Dallas
+P01474,Provider_1474,Family Medicine,In-Network,Dallas
+P01475,Provider_1475,Family Medicine,In-Network,Dallas
+P01476,Provider_1476,Cardiology,In-Network,Dallas
+P01477,Provider_1477,Family Medicine,In-Network,Dallas
+P01478,Provider_1478,Family Medicine,In-Network,Dallas
+P01479,Provider_1479,Family Medicine,In-Network,Dallas
+P01480,Provider_1480,Cardiology,In-Network,Dallas
+P01481,Provider_1481,Family Medicine,In-Network,Dallas
+P01482,Provider_1482,Family Medicine,In-Network,Dallas
+P01483,Provider_1483,Family Medicine,In-Network,Dallas
+P01484,Provider_1484,Cardiology,In-Network,Dallas
+P01485,Provider_1485,Family Medicine,In-Network,Dallas
+P01486,Provider_1486,Family Medicine,In-Network,Dallas
+P01487,Provider_1487,Family Medicine,In-Network,Dallas
+P01488,Provider_1488,Cardiology,In-Network,Dallas
+P01489,Provider_1489,Family Medicine,In-Network,Dallas
+P01490,Provider_1490,Family Medicine,In-Network,Dallas
+P01491,Provider_1491,Family Medicine,In-Network,Dallas
+P01492,Provider_1492,Cardiology,In-Network,Dallas
+P01493,Provider_1493,Family Medicine,In-Network,Dallas
+P01494,Provider_1494,Family Medicine,In-Network,Dallas
+P01495,Provider_1495,Family Medicine,In-Network,Dallas
+P01496,Provider_1496,Cardiology,In-Network,Dallas
+P01497,Provider_1497,Family Medicine,In-Network,Dallas
+P01498,Provider_1498,Family Medicine,In-Network,Dallas
+P01499,Provider_1499,Family Medicine,In-Network,Dallas
+P01500,Provider_1500,Cardiology,In-Network,Dallas
+P01501,Provider_1501,Family Medicine,In-Network,Dallas
+P01502,Provider_1502,Family Medicine,In-Network,Dallas
+P01503,Provider_1503,Family Medicine,In-Network,Dallas
+P01504,Provider_1504,Cardiology,In-Network,Dallas
+P01505,Provider_1505,Family Medicine,In-Network,Dallas
+P01506,Provider_1506,Family Medicine,In-Network,Dallas
+P01507,Provider_1507,Family Medicine,In-Network,Dallas
+P01508,Provider_1508,Cardiology,In-Network,Dallas
+P01509,Provider_1509,Family Medicine,In-Network,Dallas
+P01510,Provider_1510,Family Medicine,In-Network,Dallas
+P01511,Provider_1511,Family Medicine,In-Network,Dallas
+P01512,Provider_1512,Cardiology,In-Network,Dallas
+P01513,Provider_1513,Family Medicine,In-Network,Dallas
+P01514,Provider_1514,Family Medicine,In-Network,Dallas
+P01515,Provider_1515,Family Medicine,In-Network,Dallas
+P01516,Provider_1516,Cardiology,In-Network,Dallas
+P01517,Provider_1517,Family Medicine,In-Network,Dallas
+P01518,Provider_1518,Family Medicine,In-Network,Dallas
+P01519,Provider_1519,Family Medicine,In-Network,Dallas
+P01520,Provider_1520,Cardiology,In-Network,Dallas
+P01521,Provider_1521,Family Medicine,In-Network,Dallas
+P01522,Provider_1522,Family Medicine,In-Network,Dallas
+P01523,Provider_1523,Family Medicine,In-Network,Dallas
+P01524,Provider_1524,Cardiology,In-Network,Dallas
+P01525,Provider_1525,Family Medicine,In-Network,Dallas
+P01526,Provider_1526,Family Medicine,In-Network,Dallas
+P01527,Provider_1527,Family Medicine,In-Network,Dallas
+P01528,Provider_1528,Cardiology,In-Network,Dallas
+P01529,Provider_1529,Family Medicine,In-Network,Dallas
+P01530,Provider_1530,Family Medicine,In-Network,Dallas
+P01531,Provider_1531,Family Medicine,In-Network,Dallas
+P01532,Provider_1532,Cardiology,In-Network,Dallas
+P01533,Provider_1533,Family Medicine,In-Network,Dallas
+P01534,Provider_1534,Family Medicine,In-Network,Dallas
+P01535,Provider_1535,Family Medicine,In-Network,Dallas
+P01536,Provider_1536,Cardiology,In-Network,Dallas
+P01537,Provider_1537,Family Medicine,In-Network,Dallas
+P01538,Provider_1538,Family Medicine,In-Network,Dallas
+P01539,Provider_1539,Family Medicine,In-Network,Dallas
+P01540,Provider_1540,Cardiology,In-Network,Dallas
+P01541,Provider_1541,Family Medicine,In-Network,Dallas
+P01542,Provider_1542,Family Medicine,In-Network,Dallas
+P01543,Provider_1543,Family Medicine,In-Network,Dallas
+P01544,Provider_1544,Cardiology,In-Network,Dallas
+P01545,Provider_1545,Family Medicine,In-Network,Dallas
+P01546,Provider_1546,Family Medicine,In-Network,Dallas
+P01547,Provider_1547,Family Medicine,In-Network,Dallas
+P01548,Provider_1548,Cardiology,In-Network,Dallas
+P01549,Provider_1549,Family Medicine,In-Network,Dallas
+P01550,Provider_1550,Family Medicine,In-Network,Dallas
+P01551,Provider_1551,Family Medicine,In-Network,Dallas
+P01552,Provider_1552,Cardiology,In-Network,Dallas
+P01553,Provider_1553,Family Medicine,In-Network,Dallas
+P01554,Provider_1554,Family Medicine,In-Network,Dallas
+P01555,Provider_1555,Family Medicine,In-Network,Dallas
+P01556,Provider_1556,Cardiology,In-Network,Dallas
+P01557,Provider_1557,Family Medicine,In-Network,Dallas
+P01558,Provider_1558,Family Medicine,In-Network,Dallas
+P01559,Provider_1559,Family Medicine,In-Network,Dallas
+P01560,Provider_1560,Cardiology,In-Network,Dallas
+P01561,Provider_1561,Family Medicine,In-Network,Dallas
+P01562,Provider_1562,Family Medicine,In-Network,Dallas
+P01563,Provider_1563,Family Medicine,In-Network,Dallas
+P01564,Provider_1564,Cardiology,In-Network,Dallas
+P01565,Provider_1565,Family Medicine,In-Network,Dallas
+P01566,Provider_1566,Family Medicine,In-Network,Dallas
+P01567,Provider_1567,Family Medicine,In-Network,Dallas
+P01568,Provider_1568,Cardiology,In-Network,Dallas
+P01569,Provider_1569,Family Medicine,In-Network,Dallas
+P01570,Provider_1570,Family Medicine,In-Network,Dallas
+P01571,Provider_1571,Family Medicine,In-Network,Dallas
+P01572,Provider_1572,Cardiology,In-Network,Dallas
+P01573,Provider_1573,Family Medicine,In-Network,Dallas
+P01574,Provider_1574,Family Medicine,In-Network,Dallas
+P01575,Provider_1575,Family Medicine,In-Network,Dallas
+P01576,Provider_1576,Cardiology,In-Network,Dallas
+P01577,Provider_1577,Family Medicine,In-Network,Dallas
+P01578,Provider_1578,Family Medicine,In-Network,Dallas
+P01579,Provider_1579,Family Medicine,In-Network,Dallas
+P01580,Provider_1580,Cardiology,In-Network,Dallas
+P01581,Provider_1581,Family Medicine,In-Network,Dallas
+P01582,Provider_1582,Family Medicine,In-Network,Dallas
+P01583,Provider_1583,Family Medicine,In-Network,Dallas
+P01584,Provider_1584,Cardiology,In-Network,Dallas
+P01585,Provider_1585,Family Medicine,In-Network,Dallas
+P01586,Provider_1586,Family Medicine,In-Network,Dallas
+P01587,Provider_1587,Family Medicine,In-Network,Dallas
+P01588,Provider_1588,Cardiology,In-Network,Dallas
+P01589,Provider_1589,Family Medicine,In-Network,Dallas
+P01590,Provider_1590,Family Medicine,In-Network,Dallas
+P01591,Provider_1591,Family Medicine,In-Network,Dallas
+P01592,Provider_1592,Cardiology,In-Network,Dallas
+P01593,Provider_1593,Family Medicine,In-Network,Dallas
+P01594,Provider_1594,Family Medicine,In-Network,Dallas
+P01595,Provider_1595,Family Medicine,In-Network,Dallas
+P01596,Provider_1596,Cardiology,In-Network,Dallas
+P01597,Provider_1597,Family Medicine,In-Network,Dallas
+P01598,Provider_1598,Family Medicine,In-Network,Dallas
+P01599,Provider_1599,Family Medicine,In-Network,Dallas
+P01600,Provider_1600,Cardiology,In-Network,Dallas
+P01601,Provider_1601,Family Medicine,In-Network,Dallas
+P01602,Provider_1602,Family Medicine,In-Network,Dallas
+P01603,Provider_1603,Family Medicine,In-Network,Dallas
+P01604,Provider_1604,Cardiology,In-Network,Dallas
+P01605,Provider_1605,Family Medicine,In-Network,Dallas
+P01606,Provider_1606,Family Medicine,In-Network,Dallas
+P01607,Provider_1607,Family Medicine,In-Network,Dallas
+P01608,Provider_1608,Cardiology,In-Network,Dallas
+P01609,Provider_1609,Family Medicine,In-Network,Dallas
+P01610,Provider_1610,Family Medicine,In-Network,Dallas
+P01611,Provider_1611,Family Medicine,In-Network,Dallas
+P01612,Provider_1612,Cardiology,In-Network,Dallas
+P01613,Provider_1613,Family Medicine,In-Network,Dallas
+P01614,Provider_1614,Family Medicine,In-Network,Dallas
+P01615,Provider_1615,Family Medicine,In-Network,Dallas
+P01616,Provider_1616,Cardiology,In-Network,Dallas
+P01617,Provider_1617,Family Medicine,In-Network,Dallas
+P01618,Provider_1618,Family Medicine,In-Network,Dallas
+P01619,Provider_1619,Family Medicine,In-Network,Dallas
+P01620,Provider_1620,Cardiology,In-Network,Dallas
+P01621,Provider_1621,Family Medicine,In-Network,Dallas
+P01622,Provider_1622,Family Medicine,In-Network,Dallas
+P01623,Provider_1623,Family Medicine,In-Network,Dallas
+P01624,Provider_1624,Cardiology,In-Network,Dallas
+P01625,Provider_1625,Family Medicine,In-Network,Dallas
+P01626,Provider_1626,Family Medicine,In-Network,Dallas
+P01627,Provider_1627,Family Medicine,In-Network,Dallas
+P01628,Provider_1628,Cardiology,In-Network,Dallas
+P01629,Provider_1629,Family Medicine,In-Network,Dallas
+P01630,Provider_1630,Family Medicine,In-Network,Dallas
+P01631,Provider_1631,Family Medicine,In-Network,Dallas
+P01632,Provider_1632,Cardiology,In-Network,Dallas
+P01633,Provider_1633,Family Medicine,In-Network,Dallas
+P01634,Provider_1634,Family Medicine,In-Network,Dallas
+P01635,Provider_1635,Family Medicine,In-Network,Dallas
+P01636,Provider_1636,Cardiology,In-Network,Dallas
+P01637,Provider_1637,Family Medicine,In-Network,Dallas
+P01638,Provider_1638,Family Medicine,In-Network,Dallas
+P01639,Provider_1639,Family Medicine,In-Network,Dallas
+P01640,Provider_1640,Cardiology,In-Network,Dallas
+P01641,Provider_1641,Family Medicine,In-Network,Dallas
+P01642,Provider_1642,Family Medicine,In-Network,Dallas
+P01643,Provider_1643,Family Medicine,In-Network,Dallas
+P01644,Provider_1644,Cardiology,In-Network,Dallas
+P01645,Provider_1645,Family Medicine,In-Network,Dallas
+P01646,Provider_1646,Family Medicine,In-Network,Dallas
+P01647,Provider_1647,Family Medicine,In-Network,Dallas
+P01648,Provider_1648,Cardiology,In-Network,Dallas
+P01649,Provider_1649,Family Medicine,In-Network,Dallas
+P01650,Provider_1650,Family Medicine,In-Network,Dallas
+P01651,Provider_1651,Family Medicine,In-Network,Dallas
+P01652,Provider_1652,Cardiology,In-Network,Dallas
+P01653,Provider_1653,Family Medicine,In-Network,Dallas
+P01654,Provider_1654,Family Medicine,In-Network,Dallas
+P01655,Provider_1655,Family Medicine,In-Network,Dallas
+P01656,Provider_1656,Cardiology,In-Network,Dallas
+P01657,Provider_1657,Family Medicine,In-Network,Dallas
+P01658,Provider_1658,Family Medicine,In-Network,Dallas
+P01659,Provider_1659,Family Medicine,In-Network,Dallas
+P01660,Provider_1660,Cardiology,In-Network,Dallas
+P01661,Provider_1661,Family Medicine,In-Network,Dallas
+P01662,Provider_1662,Family Medicine,In-Network,Dallas
+P01663,Provider_1663,Family Medicine,In-Network,Dallas
+P01664,Provider_1664,Cardiology,In-Network,Dallas
+P01665,Provider_1665,Family Medicine,In-Network,Dallas
+P01666,Provider_1666,Family Medicine,In-Network,Dallas
+P01667,Provider_1667,Family Medicine,In-Network,Dallas
+P01668,Provider_1668,Cardiology,In-Network,Dallas
+P01669,Provider_1669,Family Medicine,In-Network,Dallas
+P01670,Provider_1670,Family Medicine,In-Network,Dallas
+P01671,Provider_1671,Family Medicine,In-Network,Dallas
+P01672,Provider_1672,Cardiology,In-Network,Dallas
+P01673,Provider_1673,Family Medicine,In-Network,Dallas
+P01674,Provider_1674,Family Medicine,In-Network,Dallas
+P01675,Provider_1675,Family Medicine,In-Network,Dallas
+P01676,Provider_1676,Cardiology,In-Network,Dallas
+P01677,Provider_1677,Family Medicine,In-Network,Dallas
+P01678,Provider_1678,Family Medicine,In-Network,Dallas
+P01679,Provider_1679,Family Medicine,In-Network,Dallas
+P01680,Provider_1680,Cardiology,In-Network,Dallas
+P01681,Provider_1681,Family Medicine,In-Network,Dallas
+P01682,Provider_1682,Family Medicine,In-Network,Dallas
+P01683,Provider_1683,Family Medicine,In-Network,Dallas
+P01684,Provider_1684,Cardiology,In-Network,Dallas
+P01685,Provider_1685,Family Medicine,In-Network,Dallas
+P01686,Provider_1686,Family Medicine,In-Network,Dallas
+P01687,Provider_1687,Family Medicine,In-Network,Dallas
+P01688,Provider_1688,Cardiology,In-Network,Dallas
+P01689,Provider_1689,Family Medicine,In-Network,Dallas
+P01690,Provider_1690,Family Medicine,In-Network,Dallas
+P01691,Provider_1691,Family Medicine,In-Network,Dallas
+P01692,Provider_1692,Cardiology,In-Network,Dallas
+P01693,Provider_1693,Family Medicine,In-Network,Dallas
+P01694,Provider_1694,Family Medicine,In-Network,Dallas
+P01695,Provider_1695,Family Medicine,In-Network,Dallas
+P01696,Provider_1696,Cardiology,In-Network,Dallas
+P01697,Provider_1697,Family Medicine,In-Network,Dallas
+P01698,Provider_1698,Family Medicine,In-Network,Dallas
+P01699,Provider_1699,Family Medicine,In-Network,Dallas
+P01700,Provider_1700,Cardiology,In-Network,Dallas
+P01701,Provider_1701,Family Medicine,In-Network,Dallas
+P01702,Provider_1702,Family Medicine,In-Network,Dallas
+P01703,Provider_1703,Family Medicine,In-Network,Dallas
+P01704,Provider_1704,Cardiology,In-Network,Dallas
+P01705,Provider_1705,Family Medicine,In-Network,Dallas
+P01706,Provider_1706,Family Medicine,In-Network,Dallas
+P01707,Provider_1707,Family Medicine,In-Network,Dallas
+P01708,Provider_1708,Cardiology,In-Network,Dallas
+P01709,Provider_1709,Family Medicine,In-Network,Dallas
+P01710,Provider_1710,Family Medicine,In-Network,Dallas
+P01711,Provider_1711,Family Medicine,In-Network,Dallas
+P01712,Provider_1712,Cardiology,In-Network,Dallas
+P01713,Provider_1713,Family Medicine,In-Network,Dallas
+P01714,Provider_1714,Family Medicine,In-Network,Dallas
+P01715,Provider_1715,Family Medicine,In-Network,Dallas
+P01716,Provider_1716,Cardiology,In-Network,Dallas
+P01717,Provider_1717,Family Medicine,In-Network,Dallas
+P01718,Provider_1718,Family Medicine,In-Network,Dallas
+P01719,Provider_1719,Family Medicine,In-Network,Dallas
+P01720,Provider_1720,Cardiology,In-Network,Dallas
+P01721,Provider_1721,Family Medicine,In-Network,Dallas
+P01722,Provider_1722,Family Medicine,In-Network,Dallas
+P01723,Provider_1723,Family Medicine,In-Network,Dallas
+P01724,Provider_1724,Cardiology,In-Network,Dallas
+P01725,Provider_1725,Family Medicine,In-Network,Dallas
+P01726,Provider_1726,Family Medicine,In-Network,Dallas
+P01727,Provider_1727,Family Medicine,In-Network,Dallas
+P01728,Provider_1728,Cardiology,In-Network,Dallas
+P01729,Provider_1729,Family Medicine,In-Network,Dallas
+P01730,Provider_1730,Family Medicine,In-Network,Dallas
+P01731,Provider_1731,Family Medicine,In-Network,Dallas
+P01732,Provider_1732,Cardiology,In-Network,Dallas
+P01733,Provider_1733,Family Medicine,In-Network,Dallas
+P01734,Provider_1734,Family Medicine,In-Network,Dallas
+P01735,Provider_1735,Family Medicine,In-Network,Dallas
+P01736,Provider_1736,Cardiology,In-Network,Dallas
+P01737,Provider_1737,Family Medicine,In-Network,Dallas
+P01738,Provider_1738,Family Medicine,In-Network,Dallas
+P01739,Provider_1739,Family Medicine,In-Network,Dallas
+P01740,Provider_1740,Cardiology,In-Network,Dallas
+P01741,Provider_1741,Family Medicine,In-Network,Dallas
+P01742,Provider_1742,Family Medicine,In-Network,Dallas
+P01743,Provider_1743,Family Medicine,In-Network,Dallas
+P01744,Provider_1744,Cardiology,In-Network,Dallas
+P01745,Provider_1745,Family Medicine,In-Network,Dallas
+P01746,Provider_1746,Family Medicine,In-Network,Dallas
+P01747,Provider_1747,Family Medicine,In-Network,Dallas
+P01748,Provider_1748,Cardiology,In-Network,Dallas
+P01749,Provider_1749,Family Medicine,In-Network,Dallas
+P01750,Provider_1750,Family Medicine,In-Network,Dallas
+P01751,Provider_1751,Family Medicine,In-Network,Dallas
+P01752,Provider_1752,Cardiology,In-Network,Dallas
+P01753,Provider_1753,Family Medicine,In-Network,Dallas
+P01754,Provider_1754,Family Medicine,In-Network,Dallas
+P01755,Provider_1755,Family Medicine,In-Network,Dallas
+P01756,Provider_1756,Cardiology,In-Network,Dallas
+P01757,Provider_1757,Family Medicine,In-Network,Dallas
+P01758,Provider_1758,Family Medicine,In-Network,Dallas
+P01759,Provider_1759,Family Medicine,In-Network,Dallas
+P01760,Provider_1760,Cardiology,In-Network,Dallas
+P01761,Provider_1761,Family Medicine,In-Network,Dallas
+P01762,Provider_1762,Family Medicine,In-Network,Dallas
+P01763,Provider_1763,Family Medicine,In-Network,Dallas
+P01764,Provider_1764,Cardiology,In-Network,Dallas
+P01765,Provider_1765,Family Medicine,In-Network,Dallas
+P01766,Provider_1766,Family Medicine,In-Network,Dallas
+P01767,Provider_1767,Family Medicine,In-Network,Dallas
+P01768,Provider_1768,Cardiology,In-Network,Dallas
+P01769,Provider_1769,Family Medicine,In-Network,Dallas
+P01770,Provider_1770,Family Medicine,In-Network,Dallas
+P01771,Provider_1771,Family Medicine,In-Network,Dallas
+P01772,Provider_1772,Cardiology,In-Network,Dallas
+P01773,Provider_1773,Family Medicine,In-Network,Dallas
+P01774,Provider_1774,Family Medicine,In-Network,Dallas
+P01775,Provider_1775,Family Medicine,In-Network,Dallas
+P01776,Provider_1776,Cardiology,In-Network,Dallas
+P01777,Provider_1777,Family Medicine,In-Network,Dallas
+P01778,Provider_1778,Family Medicine,In-Network,Dallas
+P01779,Provider_1779,Family Medicine,In-Network,Dallas
+P01780,Provider_1780,Cardiology,In-Network,Dallas
+P01781,Provider_1781,Family Medicine,In-Network,Dallas
+P01782,Provider_1782,Family Medicine,In-Network,Dallas
+P01783,Provider_1783,Family Medicine,In-Network,Dallas
+P01784,Provider_1784,Cardiology,In-Network,Dallas
+P01785,Provider_1785,Family Medicine,In-Network,Dallas
+P01786,Provider_1786,Family Medicine,In-Network,Dallas
+P01787,Provider_1787,Family Medicine,In-Network,Dallas
+P01788,Provider_1788,Cardiology,In-Network,Dallas
+P01789,Provider_1789,Family Medicine,In-Network,Dallas
+P01790,Provider_1790,Family Medicine,In-Network,Dallas
+P01791,Provider_1791,Family Medicine,In-Network,Dallas
+P01792,Provider_1792,Cardiology,In-Network,Dallas
+P01793,Provider_1793,Family Medicine,In-Network,Dallas
+P01794,Provider_1794,Family Medicine,In-Network,Dallas
+P01795,Provider_1795,Family Medicine,In-Network,Dallas
+P01796,Provider_1796,Cardiology,In-Network,Dallas
+P01797,Provider_1797,Family Medicine,In-Network,Dallas
+P01798,Provider_1798,Family Medicine,In-Network,Dallas
+P01799,Provider_1799,Family Medicine,In-Network,Dallas
+P01800,Provider_1800,Cardiology,In-Network,Dallas
+P01801,Provider_1801,Family Medicine,In-Network,Dallas
+P01802,Provider_1802,Family Medicine,In-Network,Dallas
+P01803,Provider_1803,Family Medicine,In-Network,Dallas
+P01804,Provider_1804,Cardiology,In-Network,Dallas
+P01805,Provider_1805,Family Medicine,In-Network,Dallas
+P01806,Provider_1806,Family Medicine,In-Network,Dallas
+P01807,Provider_1807,Family Medicine,In-Network,Dallas
+P01808,Provider_1808,Cardiology,In-Network,Dallas
+P01809,Provider_1809,Family Medicine,In-Network,Dallas
+P01810,Provider_1810,Family Medicine,In-Network,Dallas
+P01811,Provider_1811,Family Medicine,In-Network,Dallas
+P01812,Provider_1812,Cardiology,In-Network,Dallas
+P01813,Provider_1813,Family Medicine,In-Network,Dallas
+P01814,Provider_1814,Family Medicine,In-Network,Dallas
+P01815,Provider_1815,Family Medicine,In-Network,Dallas
+P01816,Provider_1816,Cardiology,In-Network,Dallas
+P01817,Provider_1817,Family Medicine,In-Network,Dallas
+P01818,Provider_1818,Family Medicine,In-Network,Dallas
+P01819,Provider_1819,Family Medicine,In-Network,Dallas
+P01820,Provider_1820,Cardiology,In-Network,Dallas
+P01821,Provider_1821,Family Medicine,In-Network,Dallas
+P01822,Provider_1822,Family Medicine,In-Network,Dallas
+P01823,Provider_1823,Family Medicine,In-Network,Dallas
+P01824,Provider_1824,Cardiology,In-Network,Dallas
+P01825,Provider_1825,Family Medicine,In-Network,Dallas
+P01826,Provider_1826,Family Medicine,In-Network,Dallas
+P01827,Provider_1827,Family Medicine,In-Network,Dallas
+P01828,Provider_1828,Cardiology,In-Network,Dallas
+P01829,Provider_1829,Family Medicine,In-Network,Dallas
+P01830,Provider_1830,Family Medicine,In-Network,Dallas
+P01831,Provider_1831,Family Medicine,In-Network,Dallas
+P01832,Provider_1832,Cardiology,In-Network,Dallas
+P01833,Provider_1833,Family Medicine,In-Network,Dallas
+P01834,Provider_1834,Family Medicine,In-Network,Dallas
+P01835,Provider_1835,Family Medicine,In-Network,Dallas
+P01836,Provider_1836,Cardiology,In-Network,Dallas
+P01837,Provider_1837,Family Medicine,In-Network,Dallas
+P01838,Provider_1838,Family Medicine,In-Network,Dallas
+P01839,Provider_1839,Family Medicine,In-Network,Dallas
+P01840,Provider_1840,Cardiology,In-Network,Dallas
+P01841,Provider_1841,Family Medicine,In-Network,Dallas
+P01842,Provider_1842,Family Medicine,In-Network,Dallas
+P01843,Provider_1843,Family Medicine,In-Network,Dallas
+P01844,Provider_1844,Cardiology,In-Network,Dallas
+P01845,Provider_1845,Family Medicine,In-Network,Dallas
+P01846,Provider_1846,Family Medicine,In-Network,Dallas
+P01847,Provider_1847,Family Medicine,In-Network,Dallas
+P01848,Provider_1848,Cardiology,In-Network,Dallas
+P01849,Provider_1849,Family Medicine,In-Network,Dallas
+P01850,Provider_1850,Family Medicine,In-Network,Dallas
+P01851,Provider_1851,Family Medicine,In-Network,Dallas
+P01852,Provider_1852,Cardiology,In-Network,Dallas
+P01853,Provider_1853,Family Medicine,In-Network,Dallas
+P01854,Provider_1854,Family Medicine,In-Network,Dallas
+P01855,Provider_1855,Family Medicine,In-Network,Dallas
+P01856,Provider_1856,Cardiology,In-Network,Dallas
+P01857,Provider_1857,Family Medicine,In-Network,Dallas
+P01858,Provider_1858,Family Medicine,In-Network,Dallas
+P01859,Provider_1859,Family Medicine,In-Network,Dallas
+P01860,Provider_1860,Cardiology,In-Network,Dallas
+P01861,Provider_1861,Family Medicine,In-Network,Dallas
+P01862,Provider_1862,Family Medicine,In-Network,Dallas
+P01863,Provider_1863,Family Medicine,In-Network,Dallas
+P01864,Provider_1864,Cardiology,In-Network,Dallas
+P01865,Provider_1865,Family Medicine,In-Network,Dallas
+P01866,Provider_1866,Family Medicine,In-Network,Dallas
+P01867,Provider_1867,Family Medicine,In-Network,Dallas
+P01868,Provider_1868,Cardiology,In-Network,Dallas
+P01869,Provider_1869,Family Medicine,In-Network,Dallas
+P01870,Provider_1870,Family Medicine,In-Network,Dallas
+P01871,Provider_1871,Family Medicine,In-Network,Dallas
+P01872,Provider_1872,Cardiology,In-Network,Dallas
+P01873,Provider_1873,Family Medicine,In-Network,Dallas
+P01874,Provider_1874,Family Medicine,In-Network,Dallas
+P01875,Provider_1875,Family Medicine,In-Network,Dallas
+P01876,Provider_1876,Cardiology,In-Network,Dallas
+P01877,Provider_1877,Family Medicine,In-Network,Dallas
+P01878,Provider_1878,Family Medicine,In-Network,Dallas
+P01879,Provider_1879,Family Medicine,In-Network,Dallas
+P01880,Provider_1880,Cardiology,In-Network,Dallas
+P01881,Provider_1881,Family Medicine,In-Network,Dallas
+P01882,Provider_1882,Family Medicine,In-Network,Dallas
+P01883,Provider_1883,Family Medicine,In-Network,Dallas
+P01884,Provider_1884,Cardiology,In-Network,Dallas
+P01885,Provider_1885,Family Medicine,In-Network,Dallas
+P01886,Provider_1886,Family Medicine,In-Network,Dallas
+P01887,Provider_1887,Family Medicine,In-Network,Dallas
+P01888,Provider_1888,Cardiology,In-Network,Dallas
+P01889,Provider_1889,Family Medicine,In-Network,Dallas
+P01890,Provider_1890,Family Medicine,In-Network,Dallas
+P01891,Provider_1891,Family Medicine,In-Network,Dallas
+P01892,Provider_1892,Cardiology,In-Network,Dallas
+P01893,Provider_1893,Family Medicine,In-Network,Dallas
+P01894,Provider_1894,Family Medicine,In-Network,Dallas
+P01895,Provider_1895,Family Medicine,In-Network,Dallas
+P01896,Provider_1896,Cardiology,In-Network,Dallas
+P01897,Provider_1897,Family Medicine,In-Network,Dallas
+P01898,Provider_1898,Family Medicine,In-Network,Dallas
+P01899,Provider_1899,Family Medicine,In-Network,Dallas
+P01900,Provider_1900,Cardiology,In-Network,Dallas
+P01901,Provider_1901,Family Medicine,In-Network,Dallas
+P01902,Provider_1902,Family Medicine,In-Network,Dallas
+P01903,Provider_1903,Family Medicine,In-Network,Dallas
+P01904,Provider_1904,Cardiology,In-Network,Dallas
+P01905,Provider_1905,Family Medicine,In-Network,Dallas
+P01906,Provider_1906,Family Medicine,In-Network,Dallas
+P01907,Provider_1907,Family Medicine,In-Network,Dallas
+P01908,Provider_1908,Cardiology,In-Network,Dallas
+P01909,Provider_1909,Family Medicine,In-Network,Dallas
+P01910,Provider_1910,Family Medicine,In-Network,Dallas
+P01911,Provider_1911,Family Medicine,In-Network,Dallas
+P01912,Provider_1912,Cardiology,In-Network,Dallas
+P01913,Provider_1913,Family Medicine,In-Network,Dallas
+P01914,Provider_1914,Family Medicine,In-Network,Dallas
+P01915,Provider_1915,Family Medicine,In-Network,Dallas
+P01916,Provider_1916,Cardiology,In-Network,Dallas
+P01917,Provider_1917,Family Medicine,In-Network,Dallas
+P01918,Provider_1918,Family Medicine,In-Network,Dallas
+P01919,Provider_1919,Family Medicine,In-Network,Dallas
+P01920,Provider_1920,Cardiology,In-Network,Dallas
+P01921,Provider_1921,Family Medicine,In-Network,Dallas
+P01922,Provider_1922,Family Medicine,In-Network,Dallas
+P01923,Provider_1923,Family Medicine,In-Network,Dallas
+P01924,Provider_1924,Cardiology,In-Network,Dallas
+P01925,Provider_1925,Family Medicine,In-Network,Dallas
+P01926,Provider_1926,Family Medicine,In-Network,Dallas
+P01927,Provider_1927,Family Medicine,In-Network,Dallas
+P01928,Provider_1928,Cardiology,In-Network,Dallas
+P01929,Provider_1929,Family Medicine,In-Network,Dallas
+P01930,Provider_1930,Family Medicine,In-Network,Dallas
+P01931,Provider_1931,Family Medicine,In-Network,Dallas
+P01932,Provider_1932,Cardiology,In-Network,Dallas
+P01933,Provider_1933,Family Medicine,In-Network,Dallas
+P01934,Provider_1934,Family Medicine,In-Network,Dallas
+P01935,Provider_1935,Family Medicine,In-Network,Dallas
+P01936,Provider_1936,Cardiology,In-Network,Dallas
+P01937,Provider_1937,Family Medicine,In-Network,Dallas
+P01938,Provider_1938,Family Medicine,In-Network,Dallas
+P01939,Provider_1939,Family Medicine,In-Network,Dallas
+P01940,Provider_1940,Cardiology,In-Network,Dallas
+P01941,Provider_1941,Family Medicine,In-Network,Dallas
+P01942,Provider_1942,Family Medicine,In-Network,Dallas
+P01943,Provider_1943,Family Medicine,In-Network,Dallas
+P01944,Provider_1944,Cardiology,In-Network,Dallas
+P01945,Provider_1945,Family Medicine,In-Network,Dallas
+P01946,Provider_1946,Family Medicine,In-Network,Dallas
+P01947,Provider_1947,Family Medicine,In-Network,Dallas
+P01948,Provider_1948,Cardiology,In-Network,Dallas
+P01949,Provider_1949,Family Medicine,In-Network,Dallas
+P01950,Provider_1950,Family Medicine,In-Network,Dallas
+P01951,Provider_1951,Family Medicine,In-Network,Dallas
+P01952,Provider_1952,Cardiology,In-Network,Dallas
+P01953,Provider_1953,Family Medicine,In-Network,Dallas
+P01954,Provider_1954,Family Medicine,In-Network,Dallas
+P01955,Provider_1955,Family Medicine,In-Network,Dallas
+P01956,Provider_1956,Cardiology,In-Network,Dallas
+P01957,Provider_1957,Family Medicine,In-Network,Dallas
+P01958,Provider_1958,Family Medicine,In-Network,Dallas
+P01959,Provider_1959,Family Medicine,In-Network,Dallas
+P01960,Provider_1960,Cardiology,In-Network,Dallas
+P01961,Provider_1961,Family Medicine,In-Network,Dallas
+P01962,Provider_1962,Family Medicine,In-Network,Dallas
+P01963,Provider_1963,Family Medicine,In-Network,Dallas
+P01964,Provider_1964,Cardiology,In-Network,Dallas
+P01965,Provider_1965,Family Medicine,In-Network,Dallas
+P01966,Provider_1966,Family Medicine,In-Network,Dallas
+P01967,Provider_1967,Family Medicine,In-Network,Dallas
+P01968,Provider_1968,Cardiology,In-Network,Dallas
+P01969,Provider_1969,Family Medicine,In-Network,Dallas
+P01970,Provider_1970,Family Medicine,In-Network,Dallas
+P01971,Provider_1971,Family Medicine,In-Network,Dallas
+P01972,Provider_1972,Cardiology,In-Network,Dallas
+P01973,Provider_1973,Family Medicine,In-Network,Dallas
+P01974,Provider_1974,Family Medicine,In-Network,Dallas
+P01975,Provider_1975,Family Medicine,In-Network,Dallas
+P01976,Provider_1976,Cardiology,In-Network,Dallas
+P01977,Provider_1977,Family Medicine,In-Network,Dallas
+P01978,Provider_1978,Family Medicine,In-Network,Dallas
+P01979,Provider_1979,Family Medicine,In-Network,Dallas
+P01980,Provider_1980,Cardiology,In-Network,Dallas
+P01981,Provider_1981,Family Medicine,In-Network,Dallas
+P01982,Provider_1982,Family Medicine,In-Network,Dallas
+P01983,Provider_1983,Family Medicine,In-Network,Dallas
+P01984,Provider_1984,Cardiology,In-Network,Dallas
+P01985,Provider_1985,Family Medicine,In-Network,Dallas
+P01986,Provider_1986,Family Medicine,In-Network,Dallas
+P01987,Provider_1987,Family Medicine,In-Network,Dallas
+P01988,Provider_1988,Cardiology,In-Network,Dallas
+P01989,Provider_1989,Family Medicine,In-Network,Dallas
+P01990,Provider_1990,Family Medicine,In-Network,Dallas
+P01991,Provider_1991,Family Medicine,In-Network,Dallas
+P01992,Provider_1992,Cardiology,In-Network,Dallas
+P01993,Provider_1993,Family Medicine,In-Network,Dallas
+P01994,Provider_1994,Family Medicine,In-Network,Dallas
+P01995,Provider_1995,Family Medicine,In-Network,Dallas
+P01996,Provider_1996,Cardiology,In-Network,Dallas
+P01997,Provider_1997,Family Medicine,In-Network,Dallas
+P01998,Provider_1998,Family Medicine,In-Network,Dallas
+P01999,Provider_1999,Family Medicine,In-Network,Dallas
+P02000,Provider_2000,Cardiology,In-Network,Dallas
